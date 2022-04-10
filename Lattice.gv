@@ -1,0 +1,2053 @@
+// <Lattice object of 81 atoms 479 concepts 35 coatoms at 0x18dd844e9b0>
+digraph Lattice {
+	node [label="" shape=circle style=filled width=.25]
+	edge [dir=none labeldistance=1.5 minlen=2]
+	c0
+	c1
+	c1 -> c1 [color=transparent headlabel=11 labelangle=270]
+	c1 -> c1 [color=transparent labelangle=90 taillabel="viêm đường hô_hấp"]
+	c1 -> c0
+	c2
+	c2 -> c2 [color=transparent headlabel=17 labelangle=270]
+	c2 -> c2 [color=transparent labelangle=90 taillabel="rối_loạn tiền_đình"]
+	c2 -> c0
+	c3
+	c3 -> c3 [color=transparent headlabel=19 labelangle=270]
+	c3 -> c0
+	c4
+	c4 -> c4 [color=transparent headlabel=20 labelangle=270]
+	c4 -> c4 [color=transparent labelangle=90 taillabel="toàn_thân co_quắp viêm_phổi kẽ"]
+	c4 -> c0
+	c5
+	c5 -> c5 [color=transparent headlabel=22 labelangle=270]
+	c5 -> c5 [color=transparent labelangle=90 taillabel="tắc động_mạch phổi di căn bàng_quang và phổi ung thư thận"]
+	c5 -> c0
+	c6
+	c6 -> c6 [color=transparent headlabel=28 labelangle=270]
+	c6 -> c0
+	c7
+	c7 -> c7 [color=transparent headlabel=34 labelangle=270]
+	c7 -> c0
+	c8
+	c8 -> c8 [color=transparent headlabel=35 labelangle=270]
+	c8 -> c0
+	c9
+	c9 -> c9 [color=transparent headlabel=39 labelangle=270]
+	c9 -> c0
+	c10
+	c10 -> c10 [color=transparent headlabel=58 labelangle=270]
+	c10 -> c0
+	c11
+	c11 -> c11 [color=transparent headlabel=61 labelangle=270]
+	c11 -> c11 [color=transparent labelangle=90 taillabel="suy tim cấp"]
+	c11 -> c0
+	c12
+	c12 -> c12 [color=transparent headlabel=87 labelangle=270]
+	c12 -> c0
+	c13
+	c13 -> c13 [color=transparent headlabel=91 labelangle=270]
+	c13 -> c13 [color=transparent labelangle=90 taillabel="rối loạn đông máu nhiễm_trùng nhiều tạng u đại_tràng sigma"]
+	c13 -> c0
+	c14
+	c14 -> c14 [color=transparent headlabel=92 labelangle=270]
+	c14 -> c0
+	c15
+	c15 -> c15 [color=transparent headlabel=96 labelangle=270]
+	c15 -> c0
+	c16
+	c16 -> c16 [color=transparent headlabel=100 labelangle=270]
+	c16 -> c16 [color=transparent labelangle=90 taillabel="viêm_khớp"]
+	c16 -> c0
+	c17
+	c17 -> c17 [color=transparent headlabel=120 labelangle=270]
+	c17 -> c0
+	c18
+	c18 -> c18 [color=transparent headlabel=129 labelangle=270]
+	c18 -> c0
+	c19
+	c19 -> c19 [color=transparent headlabel=132 labelangle=270]
+	c19 -> c0
+	c20
+	c20 -> c20 [color=transparent headlabel=162 labelangle=270]
+	c20 -> c20 [color=transparent labelangle=90 taillabel="phổi tổn_thương oxy máu xuống thấp"]
+	c20 -> c0
+	c21
+	c21 -> c21 [color=transparent headlabel=169 labelangle=270]
+	c21 -> c0
+	c22
+	c22 -> c22 [color=transparent headlabel=175 labelangle=270]
+	c22 -> c22 [color=transparent labelangle=90 taillabel="ngừng tim"]
+	c22 -> c0
+	c23
+	c23 -> c23 [color=transparent headlabel=211 labelangle=270]
+	c23 -> c0
+	c24
+	c24 -> c24 [color=transparent headlabel=236 labelangle=270]
+	c24 -> c0
+	c25
+	c25 -> c25 [color=transparent headlabel=237 labelangle=270]
+	c25 -> c0
+	c26
+	c26 -> c26 [color=transparent headlabel=243 labelangle=270]
+	c26 -> c26 [color=transparent labelangle=90 taillabel="tràn khí màng phổi hôn_mê"]
+	c26 -> c0
+	c27
+	c27 -> c27 [color=transparent headlabel=251 labelangle=270]
+	c27 -> c0
+	c28
+	c28 -> c28 [color=transparent headlabel=257 labelangle=270]
+	c28 -> c0
+	c29
+	c29 -> c29 [color=transparent headlabel=266 labelangle=270]
+	c29 -> c29 [color=transparent labelangle=90 taillabel="chán ăn"]
+	c29 -> c0
+	c30
+	c30 -> c30 [color=transparent headlabel=271 labelangle=270]
+	c30 -> c0
+	c31
+	c31 -> c31 [color=transparent headlabel=350 labelangle=270]
+	c31 -> c0
+	c32
+	c32 -> c32 [color=transparent headlabel=414 labelangle=270]
+	c32 -> c32 [color=transparent labelangle=90 taillabel="hen_suyễn"]
+	c32 -> c0
+	c33
+	c33 -> c33 [color=transparent headlabel=416 labelangle=270]
+	c33 -> c0
+	c34
+	c34 -> c34 [color=transparent headlabel=418 labelangle=270]
+	c34 -> c34 [color=transparent labelangle=90 taillabel="tổn_thương thận"]
+	c34 -> c0
+	c35
+	c35 -> c35 [color=transparent headlabel=427 labelangle=270]
+	c35 -> c0
+	c36
+	c36 -> c36 [color=transparent headlabel=428 labelangle=270]
+	c36 -> c36 [color=transparent labelangle=90 taillabel="nhồi máu cơ tim"]
+	c36 -> c0
+	c37
+	c37 -> c37 [color=transparent headlabel=431 labelangle=270]
+	c37 -> c0
+	c38
+	c38 -> c38 [color=transparent headlabel=436 labelangle=270]
+	c38 -> c0
+	c39
+	c39 -> c39 [color=transparent headlabel=437 labelangle=270]
+	c39 -> c0
+	c40
+	c40 -> c40 [color=transparent headlabel=448 labelangle=270]
+	c40 -> c0
+	c41
+	c41 -> c41 [color=transparent headlabel=449 labelangle=270]
+	c41 -> c41 [color=transparent labelangle=90 taillabel="viêm khớp mạn_tính tiểu_đường"]
+	c41 -> c0
+	c42
+	c42 -> c42 [color=transparent headlabel=453 labelangle=270]
+	c42 -> c0
+	c43
+	c43 -> c43 [color=transparent headlabel=456 labelangle=270]
+	c43 -> c0
+	c44
+	c44 -> c44 [color=transparent headlabel=459 labelangle=270]
+	c44 -> c0
+	c45
+	c45 -> c45 [color=transparent headlabel=474 labelangle=270]
+	c45 -> c0
+	c46
+	c46 -> c46 [color=transparent headlabel=475 labelangle=270]
+	c46 -> c46 [color=transparent labelangle=90 taillabel="viêm túi mật"]
+	c46 -> c0
+	c47
+	c47 -> c47 [color=transparent headlabel=478 labelangle=270]
+	c47 -> c0
+	c48
+	c48 -> c48 [color=transparent headlabel=479 labelangle=270]
+	c48 -> c0
+	c49
+	c49 -> c49 [color=transparent headlabel=496 labelangle=270]
+	c49 -> c0
+	c50
+	c50 -> c50 [color=transparent headlabel=499 labelangle=270]
+	c50 -> c0
+	c51
+	c51 -> c51 [color=transparent headlabel=503 labelangle=270]
+	c51 -> c0
+	c52
+	c52 -> c52 [color=transparent headlabel=507 labelangle=270]
+	c52 -> c52 [color=transparent labelangle=90 taillabel=suy_tim]
+	c52 -> c0
+	c53
+	c53 -> c53 [color=transparent headlabel=510 labelangle=270]
+	c53 -> c53 [color=transparent labelangle=90 taillabel="có đờm"]
+	c53 -> c0
+	c54
+	c54 -> c54 [color=transparent headlabel=524 labelangle=270]
+	c54 -> c0
+	c55
+	c55 -> c55 [color=transparent headlabel=550 labelangle=270]
+	c55 -> c0
+	c56
+	c56 -> c56 [color=transparent headlabel=571 labelangle=270]
+	c56 -> c0
+	c57
+	c57 -> c57 [color=transparent headlabel=575 labelangle=270]
+	c57 -> c0
+	c58
+	c58 -> c58 [color=transparent headlabel=577 labelangle=270]
+	c58 -> c0
+	c59
+	c59 -> c59 [color=transparent headlabel=582 labelangle=270]
+	c59 -> c0
+	c60
+	c60 -> c60 [color=transparent headlabel=635 labelangle=270]
+	c60 -> c60 [color=transparent labelangle=90 taillabel="sốt_xuất_huyết sốc truyền dịch"]
+	c60 -> c0
+	c61
+	c61 -> c61 [color=transparent headlabel=651 labelangle=270]
+	c61 -> c61 [color=transparent labelangle=90 taillabel="suy_thượng_thận nhiễm_nấm_máu"]
+	c61 -> c0
+	c62
+	c62 -> c62 [color=transparent headlabel=653 labelangle=270]
+	c62 -> c0
+	c63
+	c63 -> c63 [color=transparent headlabel=679 labelangle=270]
+	c63 -> c63 [color=transparent labelangle=90 taillabel="ớn_lạnh"]
+	c63 -> c0
+	c64
+	c64 -> c64 [color=transparent headlabel=750 labelangle=270]
+	c64 -> c0
+	c65
+	c65 -> c65 [color=transparent headlabel=758 labelangle=270]
+	c65 -> c0
+	c66
+	c66 -> c66 [color=transparent headlabel=761 labelangle=270]
+	c66 -> c0
+	c67
+	c67 -> c67 [color=transparent headlabel=792 labelangle=270]
+	c67 -> c0
+	c68
+	c68 -> c68 [color=transparent headlabel=827 labelangle=270]
+	c68 -> c68 [color=transparent labelangle=90 taillabel="tai_biến mạch_máu não"]
+	c68 -> c0
+	c69
+	c69 -> c69 [color=transparent headlabel=832 labelangle=270]
+	c69 -> c69 [color=transparent labelangle=90 taillabel="tiếp_xúc kém ăn_uống kém"]
+	c69 -> c0
+	c70
+	c70 -> c70 [color=transparent headlabel=833 labelangle=270]
+	c70 -> c0
+	c71
+	c71 -> c71 [color=transparent headlabel=861 labelangle=270]
+	c71 -> c0
+	c72
+	c72 -> c72 [color=transparent headlabel=867 labelangle=270]
+	c72 -> c72 [color=transparent labelangle=90 taillabel="viêm cơ tim"]
+	c72 -> c0
+	c73
+	c73 -> c73 [color=transparent headlabel=872 labelangle=270]
+	c73 -> c73 [color=transparent labelangle=90 taillabel="suy thượng thận mãn tính"]
+	c73 -> c0
+	c74
+	c74 -> c74 [color=transparent headlabel=906 labelangle=270]
+	c74 -> c0
+	c75
+	c75 -> c75 [color=transparent headlabel=957 labelangle=270]
+	c75 -> c0
+	c76
+	c76 -> c76 [color=transparent headlabel=964 labelangle=270]
+	c76 -> c0
+	c77
+	c77 -> c77 [color=transparent headlabel=996 labelangle=270]
+	c77 -> c0
+	c78
+	c78 -> c78 [color=transparent headlabel=1007 labelangle=270]
+	c78 -> c0
+	c79
+	c79 -> c79 [color=transparent headlabel=1011 labelangle=270]
+	c79 -> c79 [color=transparent labelangle=90 taillabel="suy_phổi"]
+	c79 -> c0
+	c80
+	c80 -> c80 [color=transparent headlabel=1040 labelangle=270]
+	c80 -> c0
+	c81
+	c81 -> c81 [color=transparent headlabel=930 labelangle=270]
+	c81 -> c1
+	c82
+	c82 -> c2
+	c82 -> c7
+	c83
+	c83 -> c2
+	c83 -> c8
+	c84
+	c84 -> c2
+	c84 -> c9
+	c85
+	c85 -> c2
+	c85 -> c10
+	c86
+	c86 -> c86 [color=transparent headlabel=65 labelangle=270]
+	c86 -> c2
+	c87
+	c87 -> c2
+	c87 -> c13
+	c88
+	c88 -> c2
+	c88 -> c17
+	c89
+	c89 -> c2
+	c89 -> c43
+	c90
+	c90 -> c2
+	c90 -> c58
+	c91
+	c91 -> c2
+	c91 -> c73
+	c92
+	c92 -> c2
+	c92 -> c79
+	c93
+	c93 -> c3
+	c93 -> c26
+	c94
+	c94 -> c3
+	c94 -> c34
+	c95
+	c95 -> c95 [color=transparent labelangle=90 taillabel="ngưng tuần_hoàn"]
+	c95 -> c3
+	c95 -> c47
+	c96
+	c96 -> c3
+	c96 -> c70
+	c97
+	c97 -> c3
+	c97 -> c74
+	c98
+	c98 -> c98 [color=transparent headlabel=1045 labelangle=270]
+	c98 -> c3
+	c99
+	c99 -> c99 [color=transparent headlabel=36 labelangle=270]
+	c99 -> c4
+	c100
+	c100 -> c100 [color=transparent labelangle=90 taillabel="ói"]
+	c100 -> c4
+	c100 -> c63
+	c101
+	c101 -> c101 [color=transparent headlabel=21 labelangle=270]
+	c101 -> c101 [color=transparent labelangle=90 taillabel="đau_đầu"]
+	c101 -> c18
+	c102
+	c102 -> c5
+	c102 -> c14
+	c103
+	c103 -> c5
+	c103 -> c24
+	c104
+	c104 -> c5
+	c104 -> c34
+	c105
+	c105 -> c5
+	c105 -> c43
+	c106
+	c106 -> c5
+	c106 -> c63
+	c107
+	c107 -> c5
+	c107 -> c69
+	c108
+	c108 -> c5
+	c108 -> c70
+	c109
+	c109 -> c5
+	c109 -> c73
+	c110
+	c110 -> c5
+	c110 -> c80
+	c111
+	c111 -> c6
+	c111 -> c40
+	c112
+	c112 -> c112 [color=transparent headlabel=82 labelangle=270]
+	c112 -> c112 [color=transparent labelangle=90 taillabel="mất khứu_giác"]
+	c112 -> c7
+	c113
+	c113 -> c7
+	c113 -> c13
+	c114
+	c114 -> c7
+	c114 -> c43
+	c115
+	c115 -> c7
+	c115 -> c79
+	c116
+	c116 -> c8
+	c116 -> c29
+	c117
+	c117 -> c9
+	c117 -> c77
+	c118
+	c118 -> c118 [color=transparent headlabel=45 labelangle=270]
+	c118 -> c14
+	c119
+	c119 -> c10
+	c119 -> c17
+	c120
+	c120 -> c10
+	c120 -> c40
+	c121
+	c121 -> c11
+	c121 -> c79
+	c122
+	c122 -> c122 [color=transparent headlabel=86 labelangle=270]
+	c122 -> c12
+	c123
+	c123 -> c12
+	c123 -> c56
+	c124
+	c124 -> c12
+	c124 -> c79
+	c125
+	c125 -> c13
+	c125 -> c26
+	c126
+	c126 -> c126 [color=transparent labelangle=90 taillabel="nhiễm_trùng phổi"]
+	c126 -> c13
+	c126 -> c41
+	c127
+	c127 -> c13
+	c127 -> c73
+	c128
+	c128 -> c14
+	c128 -> c17
+	c129
+	c129 -> c129 [color=transparent headlabel=248 labelangle=270]
+	c129 -> c14
+	c130
+	c130 -> c17
+	c130 -> c36
+	c131
+	c131 -> c131 [color=transparent headlabel=932 labelangle=270]
+	c131 -> c17
+	c132
+	c132 -> c19
+	c132 -> c24
+	c133
+	c133 -> c133 [color=transparent headlabel=168 labelangle=270]
+	c133 -> c133 [color=transparent labelangle=90 taillabel="hội_chứng ARDS"]
+	c133 -> c21
+	c134
+	c134 -> c21
+	c134 -> c29
+	c135
+	c135 -> c23
+	c135 -> c43
+	c136
+	c136 -> c25
+	c136 -> c45
+	c137
+	c137 -> c137 [color=transparent labelangle=90 taillabel="xơ_gan"]
+	c137 -> c27
+	c137 -> c37
+	c138
+	c138 -> c27
+	c138 -> c67
+	c139
+	c139 -> c28
+	c139 -> c51
+	c140
+	c140 -> c28
+	c140 -> c74
+	c141
+	c141 -> c29
+	c141 -> c53
+	c142
+	c142 -> c30
+	c142 -> c34
+	c143
+	c143 -> c143 [color=transparent headlabel=278 labelangle=270]
+	c143 -> c43
+	c144
+	c144 -> c144 [color=transparent headlabel=332 labelangle=270]
+	c144 -> c70
+	c145
+	c145 -> c33
+	c145 -> c43
+	c146
+	c146 -> c33
+	c146 -> c65
+	c147
+	c147 -> c34
+	c147 -> c41
+	c148
+	c148 -> c34
+	c148 -> c43
+	c149
+	c149 -> c34
+	c149 -> c54
+	c150
+	c150 -> c150 [color=transparent headlabel=699 labelangle=270]
+	c150 -> c34
+	c151
+	c151 -> c34
+	c151 -> c68
+	c152
+	c152 -> c34
+	c152 -> c79
+	c153
+	c153 -> c35
+	c153 -> c59
+	c154
+	c154 -> c36
+	c154 -> c44
+	c155
+	c155 -> c37
+	c155 -> c41
+	c156
+	c156 -> c38
+	c156 -> c49
+	c157
+	c157 -> c39
+	c157 -> c48
+	c158
+	c158 -> c39
+	c158 -> c65
+	c159
+	c159 -> c39
+	c159 -> c68
+	c160
+	c160 -> c40
+	c160 -> c50
+	c161
+	c161 -> c42
+	c161 -> c43
+	c162
+	c162 -> c42
+	c162 -> c46
+	c163
+	c163 -> c42
+	c163 -> c65
+	c164
+	c164 -> c43
+	c164 -> c46
+	c165
+	c165 -> c43
+	c165 -> c65
+	c166
+	c166 -> c43
+	c166 -> c68
+	c167
+	c167 -> c43
+	c167 -> c71
+	c168
+	c168 -> c43
+	c168 -> c79
+	c169
+	c169 -> c46
+	c169 -> c48
+	c170
+	c170 -> c170 [color=transparent labelangle=90 taillabel="thoái hóa đa khớp"]
+	c170 -> c46
+	c170 -> c54
+	c171
+	c171 -> c48
+	c171 -> c65
+	c172
+	c172 -> c51
+	c172 -> c61
+	c173
+	c173 -> c52
+	c173 -> c65
+	c174
+	c174 -> c54
+	c174 -> c75
+	c175
+	c175 -> c54
+	c175 -> c79
+	c176
+	c176 -> c176 [color=transparent labelangle=90 taillabel="viêm màng não"]
+	c176 -> c57
+	c176 -> c62
+	c177
+	c177 -> c62
+	c177 -> c65
+	c178
+	c178 -> c62
+	c178 -> c76
+	c179
+	c179 -> c179 [color=transparent headlabel="696 737" labelangle=270]
+	c179 -> c0
+	c180
+	c180 -> c180 [color=transparent headlabel=749 labelangle=270]
+	c180 -> c70
+	c181
+	c181 -> c64
+	c181 -> c69
+	c182
+	c182 -> c64
+	c182 -> c78
+	c183
+	c183 -> c65
+	c183 -> c66
+	c184
+	c184 -> c184 [color=transparent headlabel=763 labelangle=270]
+	c184 -> c65
+	c185
+	c185 -> c65
+	c185 -> c73
+	c186
+	c186 -> c65
+	c186 -> c75
+	c187
+	c187 -> c65
+	c187 -> c80
+	c188
+	c188 -> c69
+	c188 -> c70
+	c189
+	c189 -> c69
+	c189 -> c71
+	c190
+	c190 -> c70
+	c190 -> c76
+	c191
+	c191 -> c71
+	c191 -> c72
+	c192
+	c192 -> c71
+	c192 -> c73
+	c193
+	c193 -> c71
+	c193 -> c76
+	c194
+	c194 -> c72
+	c194 -> c75
+	c195
+	c195 -> c195 [color=transparent labelangle=90 taillabel="hội_chứng Guillain-Barre"]
+	c195 -> c76
+	c195 -> c80
+	c196
+	c196 -> c5
+	c196 -> c81
+	c197
+	c197 -> c45
+	c197 -> c81
+	c198
+	c198 -> c89
+	c198 -> c105
+	c199
+	c199 -> c82
+	c199 -> c92
+	c199 -> c115
+	c200
+	c200 -> c83
+	c200 -> c87
+	c201
+	c201 -> c83
+	c201 -> c90
+	c202
+	c202 -> c88
+	c202 -> c130
+	c203
+	c203 -> c88
+	c203 -> c131
+	c204
+	c204 -> c204 [color=transparent headlabel=122 labelangle=270]
+	c204 -> c2
+	c204 -> c70
+	c205
+	c205 -> c89
+	c205 -> c143
+	c206
+	c206 -> c96
+	c206 -> c108
+	c207
+	c207 -> c15
+	c207 -> c93
+	c208
+	c208 -> c208 [color=transparent labelangle=90 taillabel="phổi đông_đặc"]
+	c208 -> c93
+	c208 -> c98
+	c209
+	c209 -> c29
+	c209 -> c99
+	c210
+	c210 -> c25
+	c210 -> c102
+	c211
+	c211 -> c19
+	c211 -> c106
+	c212
+	c212 -> c105
+	c212 -> c143
+	c213
+	c213 -> c108
+	c213 -> c144
+	c214
+	c214 -> c104
+	c214 -> c108
+	c215
+	c215 -> c104
+	c215 -> c109
+	c216
+	c216 -> c104
+	c216 -> c110
+	c217
+	c217 -> c5
+	c217 -> c41
+	c217 -> c65
+	c218
+	c218 -> c107
+	c218 -> c108
+	c218 -> c188
+	c219
+	c219 -> c107
+	c219 -> c189
+	c220
+	c220 -> c107
+	c220 -> c110
+	c221
+	c221 -> c108
+	c221 -> c110
+	c222
+	c222 -> c109
+	c222 -> c110
+	c223
+	c223 -> c223 [color=transparent headlabel=24 labelangle=270]
+	c223 -> c34
+	c223 -> c47
+	c224
+	c224 -> c6
+	c224 -> c25
+	c224 -> c50
+	c225
+	c225 -> c6
+	c225 -> c154
+	c226
+	c226 -> c113
+	c226 -> c115
+	c227
+	c227 -> c9
+	c227 -> c143
+	c228
+	c228 -> c55
+	c228 -> c120
+	c229
+	c229 -> c121
+	c229 -> c124
+	c230
+	c230 -> c34
+	c230 -> c122
+	c231
+	c231 -> c122
+	c231 -> c124
+	c232
+	c232 -> c13
+	c232 -> c131
+	c233
+	c233 -> c13
+	c233 -> c141
+	c234
+	c234 -> c18
+	c234 -> c128
+	c235
+	c235 -> c235 [color=transparent headlabel=419 labelangle=270]
+	c235 -> c128
+	c236
+	c236 -> c40
+	c236 -> c128
+	c237
+	c237 -> c237 [color=transparent labelangle=90 taillabel="đái_tháo_đường"]
+	c237 -> c16
+	c237 -> c172
+	c238
+	c238 -> c67
+	c238 -> c133
+	c239
+	c239 -> c135
+	c239 -> c145
+	c240
+	c240 -> c240 [color=transparent labelangle=90 taillabel="choáng nhiễm_trùng"]
+	c240 -> c23
+	c240 -> c163
+	c241
+	c241 -> c241 [color=transparent labelangle=90 taillabel="nhiễm_trùng"]
+	c241 -> c26
+	c241 -> c170
+	c242
+	c242 -> c242 [color=transparent labelangle=90 taillabel="tổn_thương phổi"]
+	c242 -> c28
+	c242 -> c155
+	c243
+	c243 -> c243 [color=transparent headlabel=621 labelangle=270]
+	c243 -> c141
+	c244
+	c244 -> c56
+	c244 -> c142
+	c245
+	c245 -> c73
+	c245 -> c143
+	c246
+	c246 -> c146
+	c246 -> c171
+	c247
+	c247 -> c147
+	c247 -> c150
+	c248
+	c248 -> c148
+	c248 -> c152
+	c248 -> c168
+	c249
+	c249 -> c149
+	c249 -> c170
+	c250
+	c250 -> c149
+	c250 -> c150
+	c251
+	c251 -> c149
+	c251 -> c174
+	c252
+	c252 -> c67
+	c252 -> c150
+	c253
+	c253 -> c72
+	c253 -> c150
+	c254
+	c254 -> c78
+	c254 -> c150
+	c255
+	c255 -> c151
+	c255 -> c152
+	c256
+	c256 -> c256 [color=transparent headlabel=426 labelangle=270]
+	c256 -> c55
+	c256 -> c74
+	c257
+	c257 -> c67
+	c257 -> c153
+	c258
+	c258 -> c258 [color=transparent headlabel=429 labelangle=270]
+	c258 -> c179
+	c259
+	c259 -> c79
+	c259 -> c155
+	c260
+	c260 -> c37
+	c260 -> c179
+	c261
+	c261 -> c157
+	c261 -> c158
+	c261 -> c171
+	c262
+	c262 -> c157
+	c262 -> c159
+	c263
+	c263 -> c158
+	c263 -> c184
+	c264
+	c264 -> c161
+	c264 -> c162
+	c264 -> c164
+	c265
+	c265 -> c161
+	c265 -> c163
+	c265 -> c165
+	c266
+	c266 -> c167
+	c266 -> c191
+	c267
+	c267 -> c267 [color=transparent headlabel="994 1017" labelangle=270]
+	c267 -> c44
+	c268
+	c268 -> c170
+	c268 -> c174
+	c269
+	c269 -> c269 [color=transparent headlabel=476 labelangle=270]
+	c269 -> c180
+	c270
+	c270 -> c50
+	c270 -> c194
+	c271
+	c271 -> c51
+	c271 -> c66
+	c271 -> c76
+	c272
+	c272 -> c71
+	c272 -> c173
+	c273
+	c273 -> c173
+	c273 -> c185
+	c274
+	c274 -> c54
+	c274 -> c179
+	c275
+	c275 -> c54
+	c275 -> c66
+	c275 -> c72
+	c276
+	c276 -> c174
+	c276 -> c175
+	c277
+	c277 -> c56
+	c277 -> c187
+	c278
+	c278 -> c64
+	c278 -> c180
+	c279
+	c279 -> c187
+	c279 -> c195
+	c280
+	c280 -> c191
+	c280 -> c192
+	c281
+	c281 -> c191
+	c281 -> c194
+	c282
+	c282 -> c24
+	c282 -> c197
+	c283
+	c283 -> c135
+	c283 -> c198
+	c284
+	c284 -> c198
+	c284 -> c205
+	c284 -> c212
+	c285
+	c285 -> c82
+	c285 -> c84
+	c285 -> c87
+	c285 -> c113
+	c286
+	c286 -> c83
+	c286 -> c85
+	c286 -> c86
+	c287
+	c287 -> c85
+	c287 -> c119
+	c287 -> c203
+	c288
+	c288 -> c86
+	c288 -> c203
+	c289
+	c289 -> c86
+	c289 -> c141
+	c290
+	c290 -> c87
+	c290 -> c203
+	c290 -> c232
+	c291
+	c291 -> c87
+	c291 -> c90
+	c291 -> c125
+	c292
+	c292 -> c292 [color=transparent headlabel=268 labelangle=270]
+	c292 -> c204
+	c293
+	c293 -> c40
+	c293 -> c204
+	c294
+	c294 -> c3
+	c294 -> c58
+	c294 -> c99
+	c295
+	c295 -> c206
+	c295 -> c213
+	c296
+	c296 -> c94
+	c296 -> c206
+	c296 -> c214
+	c297
+	c297 -> c297 [color=transparent labelangle=90 taillabel="tức_ngực"]
+	c297 -> c97
+	c297 -> c207
+	c298
+	c298 -> c105
+	c298 -> c110
+	c298 -> c114
+	c299
+	c299 -> c110
+	c299 -> c125
+	c300
+	c300 -> c129
+	c300 -> c210
+	c301
+	c301 -> c301 [color=transparent labelangle=90 taillabel="xổ_mũi"]
+	c301 -> c103
+	c301 -> c132
+	c301 -> c211
+	c302
+	c302 -> c109
+	c302 -> c212
+	c302 -> c245
+	c303
+	c303 -> c213
+	c303 -> c218
+	c304
+	c304 -> c33
+	c304 -> c220
+	c305
+	c305 -> c104
+	c305 -> c147
+	c305 -> c217
+	c306
+	c306 -> c214
+	c306 -> c216
+	c306 -> c221
+	c307
+	c307 -> c218
+	c307 -> c220
+	c307 -> c221
+	c308
+	c308 -> c220
+	c308 -> c222
+	c309
+	c309 -> c195
+	c309 -> c222
+	c310
+	c310 -> c310 [color=transparent labelangle=90 taillabel="ung thư máu"]
+	c310 -> c111
+	c310 -> c160
+	c310 -> c224
+	c311
+	c311 -> c227
+	c311 -> c245
+	c312
+	c312 -> c24
+	c312 -> c118
+	c312 -> c129
+	c313
+	c313 -> c313 [color=transparent labelangle=90 taillabel="nhiễm_khuẩn huyết"]
+	c313 -> c229
+	c313 -> c231
+	c314
+	c314 -> c314 [color=transparent headlabel=73 labelangle=270]
+	c314 -> c235
+	c315
+	c315 -> c12
+	c315 -> c21
+	c315 -> c143
+	c316
+	c316 -> c127
+	c316 -> c232
+	c317
+	c317 -> c317 [color=transparent labelangle=90 taillabel="nhiễm_độc"]
+	c317 -> c162
+	c317 -> c240
+	c318
+	c318 -> c318 [color=transparent labelangle=90 taillabel="thiếu máu"]
+	c318 -> c138
+	c318 -> c257
+	c319
+	c319 -> c145
+	c319 -> c146
+	c319 -> c265
+	c320
+	c320 -> c320 [color=transparent headlabel=669 labelangle=270]
+	c320 -> c37
+	c320 -> c149
+	c321
+	c321 -> c150
+	c321 -> c151
+	c321 -> c159
+	c322
+	c322 -> c247
+	c322 -> c254
+	c323
+	c323 -> c323 [color=transparent labelangle=90 taillabel="xuất_huyết_tiêu_hóa"]
+	c323 -> c166
+	c323 -> c248
+	c323 -> c255
+	c324
+	c324 -> c191
+	c324 -> c253
+	c325
+	c325 -> c38
+	c325 -> c256
+	c326
+	c326 -> c258
+	c326 -> c260
+	c327
+	c327 -> c258
+	c327 -> c274
+	c328
+	c328 -> c168
+	c328 -> c259
+	c329
+	c329 -> c59
+	c329 -> c260
+	c330
+	c330 -> c187
+	c330 -> c261
+	c331
+	c331 -> c158
+	c331 -> c159
+	c331 -> c173
+	c332
+	c332 -> c159
+	c332 -> c194
+	c333
+	c333 -> c164
+	c333 -> c168
+	c333 -> c170
+	c333 -> c175
+	c334
+	c334 -> c170
+	c334 -> c275
+	c335
+	c335 -> c77
+	c335 -> c171
+	c335 -> c184
+	c336
+	c336 -> c277
+	c336 -> c279
+	c337
+	c337 -> c177
+	c337 -> c178
+	c337 -> c279
+	c338
+	c338 -> c71
+	c338 -> c79
+	c338 -> c179
+	c339
+	c339 -> c182
+	c339 -> c278
+	c340
+	c340 -> c340 [color=transparent headlabel=862 labelangle=270]
+	c340 -> c71
+	c340 -> c180
+	c341
+	c341 -> c102
+	c341 -> c118
+	c341 -> c196
+	c342
+	c342 -> c91
+	c342 -> c284
+	c342 -> c302
+	c343
+	c343 -> c343 [color=transparent labelangle=90 taillabel=job1]
+	c343 -> c199
+	c343 -> c226
+	c343 -> c285
+	c344
+	c344 -> c82
+	c344 -> c89
+	c344 -> c114
+	c344 -> c204
+	c345
+	c345 -> c345 [color=transparent labelangle=90 taillabel="đau_cơ"]
+	c345 -> c200
+	c345 -> c201
+	c345 -> c291
+	c346
+	c346 -> c88
+	c346 -> c128
+	c346 -> c204
+	c347
+	c347 -> c347 [color=transparent headlabel=1026 labelangle=270]
+	c347 -> c293
+	c348
+	c348 -> c127
+	c348 -> c222
+	c348 -> c299
+	c349
+	c349 -> c44
+	c349 -> c102
+	c349 -> c110
+	c349 -> c128
+	c350
+	c350 -> c22
+	c350 -> c109
+	c350 -> c185
+	c350 -> c217
+	c351
+	c351 -> c104
+	c351 -> c107
+	c351 -> c150
+	c351 -> c181
+	c352
+	c352 -> c217
+	c352 -> c259
+	c353
+	c353 -> c190
+	c353 -> c221
+	c353 -> c309
+	c354
+	c354 -> c119
+	c354 -> c120
+	c354 -> c234
+	c354 -> c236
+	c355
+	c355 -> c355 [color=transparent labelangle=90 taillabel=job3]
+	c355 -> c123
+	c355 -> c230
+	c355 -> c244
+	c356
+	c356 -> c130
+	c356 -> c316
+	c357
+	c357 -> c127
+	c357 -> c233
+	c357 -> c243
+	c358
+	c358 -> c135
+	c358 -> c264
+	c358 -> c265
+	c358 -> c317
+	c359
+	c359 -> c25
+	c359 -> c34
+	c359 -> c267
+	c360
+	c360 -> c139
+	c360 -> c140
+	c360 -> c256
+	c361
+	c361 -> c144
+	c361 -> c269
+	c361 -> c278
+	c362
+	c362 -> c250
+	c362 -> c253
+	c362 -> c275
+	c363
+	c363 -> c254
+	c363 -> c324
+	c364
+	c364 -> c326
+	c364 -> c329
+	c365
+	c365 -> c261
+	c365 -> c263
+	c365 -> c335
+	c366
+	c366 -> c165
+	c366 -> c335
+	c367
+	c367 -> c167
+	c367 -> c168
+	c367 -> c338
+	c368
+	c368 -> c191
+	c368 -> c340
+	c369
+	c369 -> c369 [color=transparent headlabel=595 labelangle=270]
+	c369 -> c81
+	c369 -> c114
+	c369 -> c143
+	c370
+	c370 -> c104
+	c370 -> c148
+	c370 -> c283
+	c370 -> c284
+	c371
+	c371 -> c293
+	c371 -> c344
+	c372
+	c372 -> c286
+	c372 -> c287
+	c372 -> c288
+	c373
+	c373 -> c91
+	c373 -> c287
+	c373 -> c290
+	c373 -> c316
+	c374
+	c374 -> c85
+	c374 -> c120
+	c374 -> c292
+	c374 -> c293
+	c375
+	c375 -> c235
+	c375 -> c346
+	c376
+	c376 -> c116
+	c376 -> c133
+	c376 -> c134
+	c376 -> c209
+	c377
+	c377 -> c145
+	c377 -> c298
+	c377 -> c304
+	c378
+	c378 -> c235
+	c378 -> c349
+	c379
+	c379 -> c192
+	c379 -> c193
+	c379 -> c219
+	c379 -> c308
+	c379 -> c309
+	c380
+	c380 -> c223
+	c380 -> c249
+	c380 -> c251
+	c380 -> c268
+	c381
+	c381 -> c381 [color=transparent headlabel=485 labelangle=270]
+	c381 -> c167
+	c381 -> c315
+	c382
+	c382 -> c165
+	c382 -> c185
+	c382 -> c245
+	c382 -> c315
+	c383
+	c383 -> c147
+	c383 -> c152
+	c383 -> c175
+	c383 -> c259
+	c383 -> c320
+	c384
+	c384 -> c249
+	c384 -> c334
+	c384 -> c362
+	c385
+	c385 -> c385 [color=transparent headlabel=483 labelangle=270]
+	c385 -> c258
+	c385 -> c338
+	c386
+	c386 -> c259
+	c386 -> c260
+	c386 -> c338
+	c387
+	c387 -> c387 [color=transparent labelangle=90 taillabel="suy_kiệt"]
+	c387 -> c183
+	c387 -> c271
+	c387 -> c336
+	c388
+	c388 -> c388 [color=transparent labelangle=90 taillabel="ung thư thận di_căn phổi"]
+	c388 -> c181
+	c388 -> c188
+	c388 -> c189
+	c388 -> c278
+	c388 -> c340
+	c389
+	c389 -> c190
+	c389 -> c193
+	c389 -> c368
+	c390
+	c390 -> c76
+	c390 -> c369
+	c391
+	c391 -> c347
+	c391 -> c371
+	c392
+	c392 -> c116
+	c392 -> c243
+	c392 -> c286
+	c392 -> c289
+	c393
+	c393 -> c19
+	c393 -> c28
+	c393 -> c86
+	c393 -> c292
+	c394
+	c394 -> c144
+	c394 -> c236
+	c394 -> c293
+	c394 -> c346
+	c395
+	c395 -> c267
+	c395 -> c294
+	c396
+	c396 -> c396 [color=transparent headlabel=592 labelangle=270]
+	c396 -> c45
+	c396 -> c97
+	c396 -> c294
+	c397
+	c397 -> c397 [color=transparent headlabel="481 489" labelangle=270]
+	c397 -> c3
+	c397 -> c174
+	c397 -> c194
+	c397 -> c275
+	c398
+	c398 -> c398 [color=transparent labelangle=90 taillabel=job4]
+	c398 -> c238
+	c398 -> c376
+	c399
+	c399 -> c399 [color=transparent labelangle=90 taillabel=job2]
+	c399 -> c59
+	c399 -> c228
+	c399 -> c354
+	c400
+	c400 -> c75
+	c400 -> c122
+	c400 -> c133
+	c400 -> c315
+	c401
+	c401 -> c62
+	c401 -> c124
+	c401 -> c161
+	c401 -> c168
+	c401 -> c315
+	c402
+	c402 -> c27
+	c402 -> c262
+	c402 -> c270
+	c402 -> c332
+	c403
+	c403 -> c67
+	c403 -> c261
+	c403 -> c262
+	c403 -> c273
+	c403 -> c331
+	c404
+	c404 -> c175
+	c404 -> c191
+	c404 -> c274
+	c404 -> c275
+	c404 -> c338
+	c405
+	c405 -> c31
+	c405 -> c136
+	c405 -> c197
+	c405 -> c210
+	c405 -> c341
+	c406
+	c406 -> c141
+	c406 -> c369
+	c407
+	c407 -> c31
+	c407 -> c233
+	c407 -> c288
+	c407 -> c289
+	c407 -> c290
+	c408
+	c408 -> c408 [color=transparent headlabel="18 950 963" labelangle=270]
+	c408 -> c30
+	c408 -> c131
+	c408 -> c234
+	c409
+	c409 -> c409 [color=transparent headlabel=523 labelangle=270]
+	c409 -> c395
+	c410
+	c410 -> c215
+	c410 -> c223
+	c410 -> c305
+	c410 -> c350
+	c411
+	c411 -> c411 [color=transparent headlabel="50 321 322 714" labelangle=270]
+	c411 -> c299
+	c412
+	c412 -> c412 [color=transparent headlabel="124 254" labelangle=270]
+	c412 -> c11
+	c412 -> c107
+	c412 -> c173
+	c412 -> c217
+	c413
+	c413 -> c182
+	c413 -> c215
+	c413 -> c216
+	c413 -> c254
+	c413 -> c308
+	c413 -> c351
+	c414
+	c414 -> c414 [color=transparent headlabel=484 labelangle=270]
+	c414 -> c414 [color=transparent labelangle=90 taillabel="suy_thận"]
+	c414 -> c156
+	c414 -> c325
+	c414 -> c360
+	c415
+	c415 -> c35
+	c415 -> c250
+	c415 -> c260
+	c415 -> c274
+	c415 -> c320
+	c416
+	c416 -> c248
+	c416 -> c249
+	c416 -> c328
+	c416 -> c333
+	c416 -> c383
+	c417
+	c417 -> c328
+	c417 -> c329
+	c417 -> c367
+	c417 -> c386
+	c418
+	c418 -> c418 [color=transparent labelangle=90 taillabel="sốc_nhiễm_khuẩn"]
+	c418 -> c330
+	c418 -> c337
+	c418 -> c365
+	c419
+	c419 -> c186
+	c419 -> c263
+	c419 -> c272
+	c419 -> c281
+	c419 -> c331
+	c419 -> c332
+	c420
+	c420 -> c186
+	c420 -> c251
+	c420 -> c276
+	c420 -> c305
+	c420 -> c352
+	c420 -> c383
+	c421
+	c421 -> c186
+	c421 -> c382
+	c421 -> c400
+	c422
+	c422 -> c192
+	c422 -> c272
+	c422 -> c273
+	c422 -> c381
+	c422 -> c382
+	c423
+	c423 -> c423 [color=transparent labelangle=90 taillabel="suy_đa_tạng"]
+	c423 -> c169
+	c423 -> c239
+	c423 -> c246
+	c423 -> c319
+	c423 -> c358
+	c423 -> c366
+	c424
+	c424 -> c326
+	c424 -> c327
+	c424 -> c415
+	c425
+	c425 -> c153
+	c425 -> c329
+	c425 -> c415
+	c426
+	c426 -> c426 [color=transparent labelangle=90 taillabel="đau_họng"]
+	c426 -> c103
+	c426 -> c282
+	c426 -> c300
+	c426 -> c312
+	c426 -> c405
+	c427
+	c427 -> c314
+	c427 -> c347
+	c427 -> c375
+	c427 -> c394
+	c428
+	c428 -> c130
+	c428 -> c154
+	c428 -> c304
+	c428 -> c314
+	c428 -> c378
+	c429
+	c429 -> c214
+	c429 -> c218
+	c429 -> c219
+	c429 -> c324
+	c429 -> c351
+	c429 -> c368
+	c429 -> c388
+	c430
+	c430 -> c32
+	c430 -> c266
+	c430 -> c333
+	c430 -> c334
+	c430 -> c367
+	c430 -> c404
+	c431
+	c431 -> c431 [color=transparent headlabel=188 labelangle=270]
+	c431 -> c113
+	c431 -> c196
+	c431 -> c212
+	c431 -> c298
+	c431 -> c299
+	c431 -> c369
+	c432
+	c432 -> c432 [color=transparent headlabel=265 labelangle=270]
+	c432 -> c198
+	c432 -> c221
+	c432 -> c298
+	c432 -> c344
+	c432 -> c346
+	c432 -> c349
+	c433
+	c433 -> c433 [color=transparent headlabel="130 235" labelangle=270]
+	c433 -> c235
+	c433 -> c408
+	c434
+	c434 -> c94
+	c434 -> c251
+	c434 -> c321
+	c434 -> c332
+	c434 -> c362
+	c434 -> c397
+	c435
+	c435 -> c266
+	c435 -> c270
+	c435 -> c281
+	c435 -> c381
+	c435 -> c400
+	c436
+	c436 -> c436 [color=transparent labelangle=90 taillabel="suy tim"]
+	c436 -> c252
+	c436 -> c257
+	c436 -> c364
+	c436 -> c424
+	c436 -> c425
+	c437
+	c437 -> c94
+	c437 -> c136
+	c437 -> c359
+	c437 -> c395
+	c437 -> c396
+	c438
+	c438 -> c302
+	c438 -> c309
+	c438 -> c348
+	c438 -> c390
+	c438 -> c431
+	c439
+	c439 -> c283
+	c439 -> c375
+	c439 -> c378
+	c439 -> c432
+	c440
+	c440 -> c213
+	c440 -> c371
+	c440 -> c394
+	c440 -> c432
+	c441
+	c441 -> c441 [color=transparent labelangle=90 taillabel="mệt_mỏi"]
+	c441 -> c200
+	c441 -> c202
+	c441 -> c356
+	c441 -> c357
+	c441 -> c372
+	c441 -> c373
+	c441 -> c392
+	c441 -> c407
+	c442
+	c442 -> c92
+	c442 -> c205
+	c442 -> c231
+	c442 -> c264
+	c442 -> c268
+	c442 -> c276
+	c442 -> c333
+	c442 -> c400
+	c442 -> c401
+	c443
+	c443 -> c247
+	c443 -> c305
+	c443 -> c321
+	c443 -> c331
+	c443 -> c351
+	c443 -> c412
+	c444
+	c444 -> c177
+	c444 -> c265
+	c444 -> c302
+	c444 -> c328
+	c444 -> c350
+	c444 -> c352
+	c444 -> c382
+	c444 -> c401
+	c445
+	c445 -> c38
+	c445 -> c154
+	c445 -> c223
+	c445 -> c262
+	c445 -> c321
+	c445 -> c359
+	c446
+	c446 -> c247
+	c446 -> c324
+	c446 -> c362
+	c446 -> c383
+	c446 -> c386
+	c446 -> c404
+	c446 -> c415
+	c447
+	c447 -> c90
+	c447 -> c96
+	c447 -> c205
+	c447 -> c292
+	c447 -> c294
+	c447 -> c344
+	c447 -> c369
+	c448
+	c448 -> c448 [color=transparent labelangle=90 taillabel="đái_tháo_đường type 2"]
+	c448 -> c280
+	c448 -> c306
+	c448 -> c307
+	c448 -> c339
+	c448 -> c353
+	c448 -> c363
+	c448 -> c379
+	c448 -> c389
+	c448 -> c413
+	c448 -> c429
+	c449
+	c449 -> c15
+	c449 -> c84
+	c449 -> c118
+	c449 -> c203
+	c449 -> c292
+	c449 -> c346
+	c449 -> c408
+	c450
+	c450 -> c132
+	c450 -> c139
+	c450 -> c269
+	c450 -> c286
+	c450 -> c347
+	c450 -> c374
+	c450 -> c393
+	c451
+	c451 -> c232
+	c451 -> c267
+	c451 -> c299
+	c451 -> c349
+	c451 -> c408
+	c452
+	c452 -> c129
+	c452 -> c182
+	c452 -> c314
+	c452 -> c433
+	c453
+	c453 -> c316
+	c453 -> c348
+	c453 -> c451
+	c454
+	c454 -> c454 [color=transparent headlabel=450 labelangle=270]
+	c454 -> c121
+	c454 -> c219
+	c454 -> c272
+	c454 -> c326
+	c454 -> c352
+	c454 -> c385
+	c454 -> c386
+	c454 -> c412
+	c455
+	c455 -> c190
+	c455 -> c371
+	c455 -> c374
+	c455 -> c390
+	c455 -> c447
+	c456
+	c456 -> c96
+	c456 -> c269
+	c456 -> c276
+	c456 -> c281
+	c456 -> c327
+	c456 -> c368
+	c456 -> c385
+	c456 -> c397
+	c456 -> c404
+	c457
+	c457 -> c457 [color=transparent headlabel=54 labelangle=270]
+	c457 -> c233
+	c457 -> c406
+	c457 -> c411
+	c457 -> c431
+	c458
+	c458 -> c287
+	c458 -> c354
+	c458 -> c374
+	c458 -> c394
+	c458 -> c449
+	c459
+	c459 -> c459 [color=transparent labelangle=90 taillabel="tăng_huyết_áp"]
+	c459 -> c322
+	c459 -> c363
+	c459 -> c384
+	c459 -> c416
+	c459 -> c417
+	c459 -> c425
+	c459 -> c430
+	c459 -> c446
+	c460
+	c460 -> c20
+	c460 -> c57
+	c460 -> c256
+	c460 -> c268
+	c460 -> c270
+	c460 -> c334
+	c460 -> c396
+	c460 -> c397
+	c461
+	c461 -> c115
+	c461 -> c134
+	c461 -> c178
+	c461 -> c193
+	c461 -> c243
+	c461 -> c367
+	c461 -> c381
+	c461 -> c385
+	c461 -> c390
+	c461 -> c401
+	c461 -> c406
+	c462
+	c462 -> c288
+	c462 -> c375
+	c462 -> c393
+	c462 -> c433
+	c462 -> c449
+	c463
+	c463 -> c463 [color=transparent labelangle=90 taillabel="khó_thở"]
+	c463 -> c111
+	c463 -> c202
+	c463 -> c225
+	c463 -> c239
+	c463 -> c303
+	c463 -> c307
+	c463 -> c377
+	c463 -> c391
+	c463 -> c427
+	c463 -> c428
+	c463 -> c439
+	c463 -> c440
+	c464
+	c464 -> c16
+	c464 -> c49
+	c464 -> c126
+	c464 -> c146
+	c464 -> c273
+	c464 -> c277
+	c464 -> c304
+	c464 -> c308
+	c464 -> c348
+	c464 -> c350
+	c464 -> c411
+	c464 -> c412
+	c465
+	c465 -> c140
+	c465 -> c197
+	c465 -> c209
+	c465 -> c289
+	c465 -> c393
+	c465 -> c396
+	c465 -> c406
+	c465 -> c447
+	c466
+	c466 -> c466 [color=transparent labelangle=90 taillabel="viêm_phổi"]
+	c466 -> c117
+	c466 -> c138
+	c466 -> c166
+	c466 -> c238
+	c466 -> c280
+	c466 -> c311
+	c466 -> c365
+	c466 -> c366
+	c466 -> c402
+	c466 -> c403
+	c466 -> c419
+	c466 -> c421
+	c466 -> c422
+	c466 -> c435
+	c467
+	c467 -> c467 [color=transparent labelangle=90 taillabel="suy_hô_hấp"]
+	c467 -> c230
+	c467 -> c342
+	c467 -> c358
+	c467 -> c370
+	c467 -> c380
+	c467 -> c410
+	c467 -> c416
+	c467 -> c420
+	c467 -> c421
+	c467 -> c442
+	c467 -> c444
+	c468
+	c468 -> c142
+	c468 -> c210
+	c468 -> c216
+	c468 -> c359
+	c468 -> c378
+	c468 -> c411
+	c468 -> c433
+	c468 -> c451
+	c469
+	c469 -> c469 [color=transparent headlabel=133 labelangle=270]
+	c469 -> c100
+	c469 -> c106
+	c469 -> c206
+	c469 -> c207
+	c469 -> c227
+	c469 -> c284
+	c469 -> c285
+	c469 -> c290
+	c469 -> c291
+	c469 -> c341
+	c469 -> c395
+	c469 -> c431
+	c469 -> c432
+	c469 -> c447
+	c469 -> c449
+	c469 -> c451
+	c470
+	c470 -> c470 [color=transparent labelangle=90 taillabel=age1]
+	c470 -> c60
+	c470 -> c117
+	c470 -> c312
+	c470 -> c339
+	c470 -> c361
+	c470 -> c372
+	c470 -> c427
+	c470 -> c450
+	c470 -> c452
+	c470 -> c458
+	c470 -> c462
+	c471
+	c471 -> c471 [color=transparent labelangle=90 taillabel=age3]
+	c471 -> c95
+	c471 -> c98
+	c471 -> c169
+	c471 -> c224
+	c471 -> c225
+	c471 -> c325
+	c471 -> c380
+	c471 -> c384
+	c471 -> c402
+	c471 -> c409
+	c471 -> c434
+	c471 -> c437
+	c471 -> c445
+	c471 -> c460
+	c472
+	c472 -> c472 [color=transparent labelangle=90 taillabel="suy_thận_mạn_tính"]
+	c472 -> c183
+	c472 -> c255
+	c472 -> c295
+	c472 -> c296
+	c472 -> c303
+	c472 -> c361
+	c472 -> c419
+	c472 -> c420
+	c472 -> c424
+	c472 -> c429
+	c472 -> c434
+	c472 -> c443
+	c472 -> c446
+	c472 -> c454
+	c472 -> c456
+	c473
+	c473 -> c473 [color=transparent labelangle=90 taillabel=ho]
+	c473 -> c112
+	c473 -> c295
+	c473 -> c311
+	c473 -> c342
+	c473 -> c353
+	c473 -> c373
+	c473 -> c409
+	c473 -> c438
+	c473 -> c440
+	c473 -> c453
+	c473 -> c455
+	c473 -> c458
+	c473 -> c469
+	c474
+	c474 -> c474 [color=transparent labelangle=90 taillabel=age2]
+	c474 -> c123
+	c474 -> c226
+	c474 -> c229
+	c474 -> c319
+	c474 -> c336
+	c474 -> c337
+	c474 -> c357
+	c474 -> c364
+	c474 -> c377
+	c474 -> c379
+	c474 -> c417
+	c474 -> c422
+	c474 -> c438
+	c474 -> c444
+	c474 -> c454
+	c474 -> c457
+	c474 -> c461
+	c474 -> c464
+	c475
+	c475 -> c475 [color=transparent labelangle=90 taillabel=male]
+	c475 -> c156
+	c475 -> c244
+	c475 -> c246
+	c475 -> c252
+	c475 -> c300
+	c475 -> c322
+	c475 -> c330
+	c475 -> c356
+	c475 -> c403
+	c475 -> c410
+	c475 -> c413
+	c475 -> c428
+	c475 -> c443
+	c475 -> c445
+	c475 -> c452
+	c475 -> c453
+	c475 -> c464
+	c475 -> c468
+	c476
+	c476 -> c476 [color=transparent headlabel="55 447" labelangle=270]
+	c476 -> c476 [color=transparent labelangle=90 taillabel="sốt"]
+	c476 -> c101
+	c476 -> c211
+	c476 -> c296
+	c476 -> c297
+	c476 -> c306
+	c476 -> c370
+	c476 -> c405
+	c476 -> c407
+	c476 -> c437
+	c476 -> c439
+	c476 -> c457
+	c476 -> c462
+	c476 -> c465
+	c476 -> c468
+	c476 -> c469
+	c477
+	c477 -> c477 [color=transparent labelangle=90 taillabel=female]
+	c477 -> c160
+	c477 -> c172
+	c477 -> c176
+	c477 -> c199
+	c477 -> c201
+	c477 -> c228
+	c477 -> c271
+	c477 -> c282
+	c477 -> c360
+	c477 -> c376
+	c477 -> c389
+	c477 -> c391
+	c477 -> c392
+	c477 -> c430
+	c477 -> c435
+	c477 -> c442
+	c477 -> c450
+	c477 -> c455
+	c477 -> c456
+	c477 -> c460
+	c477 -> c461
+	c477 -> c465
+	c478
+	c478 -> c137
+	c478 -> c208
+	c478 -> c237
+	c478 -> c241
+	c478 -> c242
+	c478 -> c301
+	c478 -> c310
+	c478 -> c313
+	c478 -> c318
+	c478 -> c323
+	c478 -> c343
+	c478 -> c345
+	c478 -> c355
+	c478 -> c387
+	c478 -> c398
+	c478 -> c399
+	c478 -> c414
+	c478 -> c418
+	c478 -> c423
+	c478 -> c426
+	c478 -> c436
+	c478 -> c441
+	c478 -> c448
+	c478 -> c459
+	c478 -> c463
+	c478 -> c466
+	c478 -> c467
+	c478 -> c470
+	c478 -> c471
+	c478 -> c472
+	c478 -> c473
+	c478 -> c474
+	c478 -> c475
+	c478 -> c476
+	c478 -> c477
+}

@@ -1,0 +1,477 @@
+1{11} <-> [age2 female ho sốt đau_họng viêm đường hô_hấp] <=> 11 <=> viêm đường hô_hấp
+2{17} <-> [age1 female job1 ho sốt mệt_mỏi đau_cơ suy_hô_hấp rối_loạn tiền_đình khó_thở] <=> 17 <=> rối_loạn tiền_đình
+3{19} <-> [age3 female ho sốt suy_thận_mạn_tính phổi đông_đặc tức_ngực ngưng tuần_hoàn] <=> 19
+4{20} <-> [age3 female job4 ho sốt ói toàn_thân co_quắp viêm_phổi kẽ] <=> 20 <=> toàn_thân co_quắp viêm_phổi kẽ
+5{22} <-> [age2 male ho sốt suy_thận_mạn_tính đái_tháo_đường type 2 suy_hô_hấp khó_thở đau_họng tắc động_mạch phổi di căn bàng_quang và phổi ung thư thận xổ_mũi] <=> 22 <=> tắc động_mạch phổi di căn bàng_quang và phổi ung thư thận
+6{28} <-> [age3 khó_thở ung thư máu] <=> 28
+7{34} <-> [age2 female job1 ho sốt khó_thở mất khứu_giác] <=> 34
+8{35} <-> [age1 female job4 mệt_mỏi đau_cơ] <=> 35
+9{39} <-> [age1 job1 ho sốt viêm_phổi] <=> 39
+10{58} <-> [age1 female job2 ho mệt_mỏi] <=> 58
+11{61} <-> [age2 male suy_thận_mạn_tính nhiễm_khuẩn huyết suy tim cấp] <=> 61 <=> suy tim cấp
+12{87} <-> [age2 female job3 viêm_phổi suy_hô_hấp nhiễm_khuẩn huyết] <=> 87
+13{91} <-> [age2 male job1 ho sốt mệt_mỏi đau_cơ nhiễm_trùng phổi rối loạn đông máu nhiễm_trùng nhiều tạng u đại_tràng sigma] <=> 91 <=> rối loạn đông máu nhiễm_trùng nhiều tạng u đại_tràng sigma
+14{92} <-> [age1 male job2 ho sốt khó_thở đau_họng] <=> 92
+15{96} <-> [age1 ho sốt tức_ngực] <=> 96
+16{100} <-> [age2 male đái_tháo_đường viêm_khớp] <=> 100 <=> viêm_khớp
+17{120} <-> [age1 male job2 ho sốt mệt_mỏi khó_thở] <=> 120
+18{129} <-> [age1 male job2 ho sốt đau_đầu] <=> 129
+19{132} <-> [age1 female sốt xổ_mũi] <=> 132
+20{162} <-> [age3 female phổi tổn_thương oxy máu xuống thấp] <=> 162 <=> phổi tổn_thương oxy máu xuống thấp
+21{169} <-> [age2 female job4 viêm_phổi suy_hô_hấp hội_chứng ARDS] <=> 169
+22{175} <-> [age2 male suy_hô_hấp ngừng tim] <=> 175 <=> ngừng tim
+23{211} <-> [sốt suy_hô_hấp khó_thở suy_đa_tạng choáng nhiễm_trùng nhiễm_độc] <=> 211
+24{236} <-> [age1 female đau_họng xổ_mũi] <=> 236
+25{237} <-> [age3 male sốt đau_họng ung thư máu] <=> 237
+26{243} <-> [age2 male ho sốt đau_cơ phổi đông_đặc nhiễm_trùng tức_ngực tràn khí màng phổi hôn_mê] <=> 243 <=> tràn khí màng phổi hôn_mê
+27{251} <-> [age3 viêm_phổi thiếu máu xơ_gan] <=> 251
+28{257} <-> [age1 female sốt tổn_thương phổi suy_thận] <=> 257
+29{266} <-> [age2 female job4 sốt mệt_mỏi chán ăn] <=> 266 <=> chán ăn
+30{271} <-> [age1 male job3 ho sốt] <=> 271
+31{350} <-> [sốt mệt_mỏi đau_họng] <=> 350
+32{414} <-> [female tăng_huyết_áp hen_suyễn] <=> 414 <=> hen_suyễn
+33{416} <-> [age2 male khó_thở suy_đa_tạng] <=> 416
+34{418} <-> [age3 male job3 sốt suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2 suy_hô_hấp suy tim xuất_huyết_tiêu_hóa tổn_thương thận] <=> 418 <=> tổn_thương thận
+35{427} <-> [suy_thận_mạn_tính tăng_huyết_áp suy tim thiếu máu] <=> 427
+36{428} <-> [age3 male mệt_mỏi khó_thở nhồi máu cơ tim] <=> 428 <=> nhồi máu cơ tim
+37{431} <-> [age2 suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp suy tim tổn_thương phổi xơ_gan] <=> 431
+38{436} <-> [age3 male suy_thận] <=> 436
+39{437} <-> [age3 male viêm_phổi suy_thận_mạn_tính sốc_nhiễm_khuẩn] <=> 437
+40{448} <-> [age1 female job2 ho khó_thở ung thư máu] <=> 448
+41{449} <-> [age2 male nhiễm_trùng phổi suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp viêm khớp mạn_tính tiểu_đường tổn_thương phổi] <=> 449 <=> viêm khớp mạn_tính tiểu_đường
+42{453} <-> [age2 female suy_hô_hấp suy_đa_tạng choáng nhiễm_trùng nhiễm_độc] <=> 453
+43{456} <-> [age2 female ho sốt viêm_phổi tăng_huyết_áp suy_hô_hấp khó_thở xuất_huyết_tiêu_hóa suy_đa_tạng] <=> 456
+44{459} <-> [age3 male ho sốt khó_thở] <=> 459
+45{474} <-> [age3 female sốt đau_họng] <=> 474
+46{475} <-> [age3 female tăng_huyết_áp suy_hô_hấp nhiễm_trùng thoái hóa đa khớp suy_đa_tạng nhiễm_độc viêm túi mật] <=> 475 <=> viêm túi mật
+47{478} <-> [age3 male suy_hô_hấp ngưng tuần_hoàn] <=> 478
+48{479} <-> [age3 male viêm_phổi sốc_nhiễm_khuẩn suy_đa_tạng] <=> 479
+49{496} <-> [age2 male suy_thận] <=> 496
+50{499} <-> [age3 female viêm_phổi ung thư máu] <=> 499
+51{503} <-> [age1 female đái_tháo_đường suy_thận suy_kiệt] <=> 503
+52{507} <-> [age2 male viêm_phổi suy_thận_mạn_tính suy_tim] <=> 507 <=> suy_tim
+53{510} <-> [age2 female sốt mệt_mỏi có đờm] <=> 510 <=> có đờm
+54{524} <-> [age3 female suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp suy tim nhiễm_trùng thoái hóa đa khớp] <=> 524
+55{550} <-> [age3 female job2 suy_thận] <=> 550
+56{571} <-> [age2 male job3 suy_kiệt] <=> 571
+57{575} <-> [age3 female viêm màng não] <=> 575
+58{577} <-> [age3 female ho sốt đau_cơ] <=> 577
+59{582} <-> [age2 job2 tăng_huyết_áp suy tim thiếu máu] <=> 582
+60{635} <-> [age1 sốt_xuất_huyết sốc truyền dịch] <=> 635 <=> sốt_xuất_huyết sốc truyền dịch
+61{651} <-> [female đái_tháo_đường suy_thượng_thận nhiễm_nấm_máu] <=> 651 <=> suy_thượng_thận nhiễm_nấm_máu
+62{653} <-> [age2 female suy_hô_hấp sốc_nhiễm_khuẩn viêm màng não] <=> 653
+63{679} <-> [ho sốt xổ_mũi ói ớn_lạnh] <=> 679 <=> ớn_lạnh
+64{750} <-> [age1 male ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2] <=> 750
+65{758} <-> [age2 male viêm_phổi suy_thận_mạn_tính suy_hô_hấp sốc_nhiễm_khuẩn suy_kiệt suy_đa_tạng choáng nhiễm_trùng nhiễm_độc] <=> 758
+66{761} <-> [age3 female suy_thận_mạn_tính tăng_huyết_áp suy_kiệt] <=> 761
+67{792} <-> [male job4 viêm_phổi suy tim thiếu máu] <=> 792
+68{827} <-> [age3 male viêm_phổi suy_thận_mạn_tính xuất_huyết_tiêu_hóa tai_biến mạch_máu não] <=> 827 <=> tai_biến mạch_máu não
+69{832} <-> [age2 male ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở tiếp_xúc kém ăn_uống kém] <=> 832 <=> tiếp_xúc kém ăn_uống kém
+70{833} <-> [age1 female ho sốt ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở] <=> 833
+71{861} <-> [age2 female ung thư thận di_căn phổi viêm_phổi suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2] <=> 861
+72{867} <-> [age3 female viêm_phổi suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2 viêm cơ tim] <=> 867 <=> viêm cơ tim
+73{872} <-> [age2 male ho mệt_mỏi viêm_phổi đái_tháo_đường type 2 suy_hô_hấp suy thượng thận mãn tính] <=> 872 <=> suy thượng thận mãn tính
+74{906} <-> [age3 female sốt suy_thận tức_ngực] <=> 906
+75{957} <-> [age3 female viêm_phổi suy_thận_mạn_tính suy_hô_hấp] <=> 957
+76{964} <-> [age2 female ho đái_tháo_đường type 2 sốc_nhiễm_khuẩn hội_chứng Guillain-Barre suy_kiệt] <=> 964
+77{996} <-> [age1 viêm_phổi sốc_nhiễm_khuẩn suy_đa_tạng] <=> 996
+78{1007} <-> [age1 male tăng_huyết_áp đái_tháo_đường type 2] <=> 1007
+79{1011} <-> [age2 female job1 suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp xuất_huyết_tiêu_hóa suy_phổi nhiễm_khuẩn huyết] <=> 1011 <=> suy_phổi
+80{1040} <-> [age2 male ho sốt đái_tháo_đường type 2 khó_thở sốc_nhiễm_khuẩn hội_chứng Guillain-Barre suy_kiệt] <=> 1040
+81{11, 930} <-> [age2 female ho sốt đau_họng] <=> 930
+82{17, 34} <-> [female job1 ho sốt khó_thở]
+83{17, 35} <-> [age1 female mệt_mỏi đau_cơ]
+84{17, 39} <-> [age1 job1 ho sốt]
+85{17, 58} <-> [age1 female ho mệt_mỏi]
+86{17, 65} <-> [age1 female sốt mệt_mỏi] <=> 65
+87{17, 91} <-> [job1 ho sốt mệt_mỏi đau_cơ]
+88{17, 120} <-> [age1 ho sốt mệt_mỏi khó_thở]
+89{17, 456} <-> [female ho sốt suy_hô_hấp khó_thở]
+90{17, 577} <-> [female ho sốt đau_cơ]
+91{17, 872} <-> [ho mệt_mỏi suy_hô_hấp]
+92{17, 1011} <-> [female job1 suy_hô_hấp]
+93{19, 243} <-> [ho sốt phổi đông_đặc tức_ngực]
+94{19, 418} <-> [age3 sốt suy_thận_mạn_tính]
+95{19, 478} <-> [age3 ngưng tuần_hoàn] <=> ngưng tuần_hoàn
+96{19, 833} <-> [female ho sốt suy_thận_mạn_tính]
+97{19, 906} <-> [age3 female sốt tức_ngực]
+98{19, 1045} <-> [age3 phổi đông_đặc] <=> 1045
+99{20, 36} <-> [age3 female job4 ho sốt] <=> 36
+100{20, 679} <-> [ho sốt ói] <=> ói
+101{21, 129} <-> [sốt đau_đầu] <=> 21 <=> đau_đầu
+102{22, 92} <-> [male ho sốt khó_thở đau_họng]
+103{22, 236} <-> [đau_họng xổ_mũi]
+104{22, 418} <-> [male sốt suy_thận_mạn_tính đái_tháo_đường type 2 suy_hô_hấp]
+105{22, 456} <-> [age2 ho sốt suy_hô_hấp khó_thở]
+106{22, 679} <-> [ho sốt xổ_mũi]
+107{22, 832} <-> [age2 male suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở]
+108{22, 833} <-> [ho sốt suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở]
+109{22, 872} <-> [age2 male ho đái_tháo_đường type 2 suy_hô_hấp]
+110{22, 1040} <-> [age2 male ho sốt đái_tháo_đường type 2 khó_thở]
+111{28, 448} <-> [khó_thở ung thư máu]
+112{34, 82} <-> [ho mất khứu_giác] <=> 82 <=> mất khứu_giác
+113{34, 91} <-> [age2 job1 ho sốt]
+114{34, 456} <-> [age2 female ho sốt khó_thở]
+115{34, 1011} <-> [age2 female job1]
+116{35, 266} <-> [female job4 mệt_mỏi]
+117{39, 996} <-> [age1 viêm_phổi]
+118{45, 92} <-> [age1 ho sốt đau_họng] <=> 45
+119{58, 120} <-> [age1 job2 ho mệt_mỏi]
+120{58, 448} <-> [age1 female job2 ho]
+121{61, 1011} <-> [age2 suy_thận_mạn_tính nhiễm_khuẩn huyết]
+122{86, 87} <-> [female job3 viêm_phổi suy_hô_hấp nhiễm_khuẩn huyết] <=> 86
+123{87, 571} <-> [age2 job3]
+124{87, 1011} <-> [age2 female suy_hô_hấp nhiễm_khuẩn huyết]
+125{91, 243} <-> [age2 male ho sốt đau_cơ]
+126{91, 449} <-> [age2 male nhiễm_trùng phổi] <=> nhiễm_trùng phổi
+127{91, 872} <-> [age2 male ho mệt_mỏi]
+128{92, 120} <-> [age1 male job2 ho sốt khó_thở]
+129{92, 248} <-> [age1 male đau_họng] <=> 248
+130{120, 428} <-> [male mệt_mỏi khó_thở]
+131{120, 932} <-> [age1 male ho sốt mệt_mỏi] <=> 932
+132{132, 236} <-> [age1 female xổ_mũi]
+133{168, 169} <-> [female job4 viêm_phổi suy_hô_hấp hội_chứng ARDS] <=> 168 <=> hội_chứng ARDS
+134{169, 266} <-> [age2 female job4]
+135{211, 456} <-> [sốt suy_hô_hấp khó_thở suy_đa_tạng]
+136{237, 474} <-> [age3 sốt đau_họng]
+137{251, 431} <-> [xơ_gan] <=> xơ_gan
+138{251, 792} <-> [viêm_phổi thiếu máu]
+139{257, 503} <-> [age1 female suy_thận]
+140{257, 906} <-> [female sốt suy_thận]
+141{266, 510} <-> [age2 female sốt mệt_mỏi]
+142{271, 418} <-> [male job3 sốt]
+143{278, 456} <-> [age2 female ho sốt viêm_phổi suy_hô_hấp] <=> 278
+144{332, 833} <-> [age1 ho suy_thận_mạn_tính khó_thở] <=> 332
+145{416, 456} <-> [age2 khó_thở suy_đa_tạng]
+146{416, 758} <-> [age2 male suy_đa_tạng]
+147{418, 449} <-> [male suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp]
+148{418, 456} <-> [sốt tăng_huyết_áp suy_hô_hấp xuất_huyết_tiêu_hóa]
+149{418, 524} <-> [age3 suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp suy tim]
+150{418, 699} <-> [age3 male suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2 suy tim] <=> 699
+151{418, 827} <-> [age3 male suy_thận_mạn_tính xuất_huyết_tiêu_hóa]
+152{418, 1011} <-> [suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp xuất_huyết_tiêu_hóa]
+153{427, 582} <-> [tăng_huyết_áp suy tim thiếu máu]
+154{428, 459} <-> [age3 male khó_thở]
+155{431, 449} <-> [age2 suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp tổn_thương phổi]
+156{436, 496} <-> [male suy_thận]
+157{437, 479} <-> [age3 male viêm_phổi sốc_nhiễm_khuẩn]
+158{437, 758} <-> [male viêm_phổi suy_thận_mạn_tính sốc_nhiễm_khuẩn]
+159{437, 827} <-> [age3 male viêm_phổi suy_thận_mạn_tính]
+160{448, 499} <-> [female ung thư máu]
+161{453, 456} <-> [age2 female suy_hô_hấp suy_đa_tạng]
+162{453, 475} <-> [female suy_hô_hấp suy_đa_tạng nhiễm_độc]
+163{453, 758} <-> [age2 suy_hô_hấp suy_đa_tạng choáng nhiễm_trùng nhiễm_độc]
+164{456, 475} <-> [female tăng_huyết_áp suy_hô_hấp suy_đa_tạng]
+165{456, 758} <-> [age2 viêm_phổi suy_hô_hấp suy_đa_tạng]
+166{456, 827} <-> [viêm_phổi xuất_huyết_tiêu_hóa]
+167{456, 861} <-> [age2 female viêm_phổi tăng_huyết_áp]
+168{456, 1011} <-> [age2 female tăng_huyết_áp suy_hô_hấp xuất_huyết_tiêu_hóa]
+169{475, 479} <-> [age3 suy_đa_tạng]
+170{475, 524} <-> [age3 female tăng_huyết_áp suy_hô_hấp nhiễm_trùng thoái hóa đa khớp] <=> thoái hóa đa khớp
+171{479, 758} <-> [male viêm_phổi sốc_nhiễm_khuẩn suy_đa_tạng]
+172{503, 651} <-> [female đái_tháo_đường]
+173{507, 758} <-> [age2 male viêm_phổi suy_thận_mạn_tính]
+174{524, 957} <-> [age3 female suy_thận_mạn_tính suy_hô_hấp]
+175{524, 1011} <-> [female suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp]
+176{575, 653} <-> [female viêm màng não] <=> viêm màng não
+177{653, 758} <-> [age2 suy_hô_hấp sốc_nhiễm_khuẩn]
+178{653, 964} <-> [age2 female sốc_nhiễm_khuẩn]
+179{696, 737} <-> [age2 female suy_thận_mạn_tính tăng_huyết_áp suy tim] <=> 696 737
+180{749, 833} <-> [age1 female ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2] <=> 749
+181{750, 832} <-> [male ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2]
+182{750, 1007} <-> [age1 male đái_tháo_đường type 2]
+183{758, 761} <-> [suy_thận_mạn_tính suy_kiệt]
+184{758, 763} <-> [viêm_phổi suy_thận_mạn_tính sốc_nhiễm_khuẩn suy_đa_tạng] <=> 763
+185{758, 872} <-> [age2 male viêm_phổi suy_hô_hấp]
+186{758, 957} <-> [viêm_phổi suy_thận_mạn_tính suy_hô_hấp]
+187{758, 1040} <-> [age2 male sốc_nhiễm_khuẩn suy_kiệt]
+188{832, 833} <-> [ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở]
+189{832, 861} <-> [age2 ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2]
+190{833, 964} <-> [female ho đái_tháo_đường type 2]
+191{861, 867} <-> [female viêm_phổi suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2]
+192{861, 872} <-> [age2 viêm_phổi đái_tháo_đường type 2]
+193{861, 964} <-> [age2 female đái_tháo_đường type 2]
+194{867, 957} <-> [age3 female viêm_phổi suy_thận_mạn_tính]
+195{964, 1040} <-> [age2 ho đái_tháo_đường type 2 sốc_nhiễm_khuẩn hội_chứng Guillain-Barre suy_kiệt] <=> hội_chứng Guillain-Barre
+196{11, 22, 930} <-> [age2 ho sốt đau_họng]
+197{11, 474, 930} <-> [female sốt đau_họng]
+198{17, 22, 456} <-> [ho sốt suy_hô_hấp khó_thở]
+199{17, 34, 1011} <-> [female job1]
+200{17, 35, 91} <-> [mệt_mỏi đau_cơ]
+201{17, 35, 577} <-> [female đau_cơ]
+202{17, 120, 428} <-> [mệt_mỏi khó_thở]
+203{17, 120, 932} <-> [age1 ho sốt mệt_mỏi]
+204{17, 122, 833} <-> [age1 female ho sốt khó_thở] <=> 122
+205{17, 278, 456} <-> [female ho sốt suy_hô_hấp]
+206{19, 22, 833} <-> [ho sốt suy_thận_mạn_tính]
+207{19, 96, 243} <-> [ho sốt tức_ngực]
+208{19, 243, 1045} <-> [phổi đông_đặc] <=> phổi đông_đặc
+209{20, 36, 266} <-> [female job4 sốt]
+210{22, 92, 237} <-> [male sốt đau_họng]
+211{22, 132, 679} <-> [sốt xổ_mũi]
+212{22, 278, 456} <-> [age2 ho sốt suy_hô_hấp]
+213{22, 332, 833} <-> [ho suy_thận_mạn_tính khó_thở]
+214{22, 418, 833} <-> [sốt suy_thận_mạn_tính đái_tháo_đường type 2]
+215{22, 418, 872} <-> [male đái_tháo_đường type 2 suy_hô_hấp]
+216{22, 418, 1040} <-> [male sốt đái_tháo_đường type 2]
+217{22, 449, 758} <-> [age2 male suy_thận_mạn_tính suy_hô_hấp]
+218{22, 832, 833} <-> [suy_thận_mạn_tính đái_tháo_đường type 2 khó_thở]
+219{22, 832, 861} <-> [age2 suy_thận_mạn_tính đái_tháo_đường type 2]
+220{22, 832, 1040} <-> [age2 male đái_tháo_đường type 2 khó_thở]
+221{22, 833, 1040} <-> [ho sốt đái_tháo_đường type 2 khó_thở]
+222{22, 872, 1040} <-> [age2 male ho đái_tháo_đường type 2]
+223{24, 418, 478} <-> [age3 male suy_hô_hấp] <=> 24
+224{28, 237, 499} <-> [age3 ung thư máu]
+225{28, 428, 459} <-> [age3 khó_thở]
+226{34, 91, 1011} <-> [age2 job1]
+227{39, 278, 456} <-> [ho sốt viêm_phổi]
+228{58, 448, 550} <-> [female job2]
+229{61, 87, 1011} <-> [age2 nhiễm_khuẩn huyết]
+230{86, 87, 418} <-> [job3 suy_hô_hấp]
+231{86, 87, 1011} <-> [female suy_hô_hấp nhiễm_khuẩn huyết]
+232{91, 120, 932} <-> [male ho sốt mệt_mỏi]
+233{91, 266, 510} <-> [age2 sốt mệt_mỏi]
+234{92, 120, 129} <-> [age1 male job2 ho sốt]
+235{92, 120, 419} <-> [age1 male sốt khó_thở] <=> 419
+236{92, 120, 448} <-> [age1 job2 ho khó_thở]
+237{100, 503, 651} <-> [đái_tháo_đường] <=> đái_tháo_đường
+238{168, 169, 792} <-> [job4 viêm_phổi]
+239{211, 416, 456} <-> [khó_thở suy_đa_tạng]
+240{211, 453, 758} <-> [suy_hô_hấp suy_đa_tạng choáng nhiễm_trùng nhiễm_độc] <=> choáng nhiễm_trùng
+241{243, 475, 524} <-> [nhiễm_trùng] <=> nhiễm_trùng
+242{257, 431, 449} <-> [tổn_thương phổi] <=> tổn_thương phổi
+243{266, 510, 621} <-> [age2 female mệt_mỏi] <=> 621
+244{271, 418, 571} <-> [male job3]
+245{278, 456, 872} <-> [age2 ho viêm_phổi suy_hô_hấp]
+246{416, 479, 758} <-> [male suy_đa_tạng]
+247{418, 449, 699} <-> [male suy_thận_mạn_tính tăng_huyết_áp]
+248{418, 456, 1011} <-> [tăng_huyết_áp suy_hô_hấp xuất_huyết_tiêu_hóa]
+249{418, 475, 524} <-> [age3 tăng_huyết_áp suy_hô_hấp]
+250{418, 524, 699} <-> [age3 suy_thận_mạn_tính tăng_huyết_áp suy tim]
+251{418, 524, 957} <-> [age3 suy_thận_mạn_tính suy_hô_hấp]
+252{418, 699, 792} <-> [male suy tim]
+253{418, 699, 867} <-> [age3 suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2]
+254{418, 699, 1007} <-> [male tăng_huyết_áp đái_tháo_đường type 2]
+255{418, 827, 1011} <-> [suy_thận_mạn_tính xuất_huyết_tiêu_hóa]
+256{426, 550, 906} <-> [age3 female suy_thận] <=> 426
+257{427, 582, 792} <-> [suy tim thiếu máu]
+258{429, 696, 737} <-> [age2 female suy_thận_mạn_tính suy tim] <=> 429
+259{431, 449, 1011} <-> [age2 suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp]
+260{431, 696, 737} <-> [age2 suy_thận_mạn_tính tăng_huyết_áp suy tim]
+261{437, 479, 758} <-> [male viêm_phổi sốc_nhiễm_khuẩn]
+262{437, 479, 827} <-> [age3 male viêm_phổi]
+263{437, 758, 763} <-> [viêm_phổi suy_thận_mạn_tính sốc_nhiễm_khuẩn]
+264{453, 456, 475} <-> [female suy_hô_hấp suy_đa_tạng]
+265{453, 456, 758} <-> [age2 suy_hô_hấp suy_đa_tạng]
+266{456, 861, 867} <-> [female viêm_phổi tăng_huyết_áp]
+267{459, 994, 1017} <-> [age3 male ho sốt] <=> 994 1017
+268{475, 524, 957} <-> [age3 female suy_hô_hấp]
+269{476, 749, 833} <-> [age1 female suy_thận_mạn_tính] <=> 476
+270{499, 867, 957} <-> [age3 female viêm_phổi]
+271{503, 761, 964} <-> [female suy_kiệt]
+272{507, 758, 861} <-> [age2 viêm_phổi suy_thận_mạn_tính]
+273{507, 758, 872} <-> [age2 male viêm_phổi]
+274{524, 696, 737} <-> [female suy_thận_mạn_tính tăng_huyết_áp suy tim]
+275{524, 761, 867} <-> [age3 female suy_thận_mạn_tính tăng_huyết_áp]
+276{524, 957, 1011} <-> [female suy_thận_mạn_tính suy_hô_hấp]
+277{571, 758, 1040} <-> [age2 male suy_kiệt]
+278{749, 750, 833} <-> [age1 ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2]
+279{758, 964, 1040} <-> [age2 sốc_nhiễm_khuẩn suy_kiệt]
+280{861, 867, 872} <-> [viêm_phổi đái_tháo_đường type 2]
+281{861, 867, 957} <-> [female viêm_phổi suy_thận_mạn_tính]
+282{11, 236, 474, 930} <-> [female đau_họng]
+283{17, 22, 211, 456} <-> [sốt suy_hô_hấp khó_thở]
+284{17, 22, 278, 456} <-> [ho sốt suy_hô_hấp]
+285{17, 34, 39, 91} <-> [job1 ho sốt]
+286{17, 35, 58, 65} <-> [age1 female mệt_mỏi]
+287{17, 58, 120, 932} <-> [age1 ho mệt_mỏi]
+288{17, 65, 120, 932} <-> [age1 sốt mệt_mỏi]
+289{17, 65, 266, 510} <-> [female sốt mệt_mỏi]
+290{17, 91, 120, 932} <-> [ho sốt mệt_mỏi]
+291{17, 91, 243, 577} <-> [ho sốt đau_cơ]
+292{17, 122, 268, 833} <-> [age1 female ho sốt] <=> 268
+293{17, 122, 448, 833} <-> [age1 female ho khó_thở]
+294{19, 20, 36, 577} <-> [age3 female ho sốt]
+295{19, 22, 332, 833} <-> [ho suy_thận_mạn_tính]
+296{19, 22, 418, 833} <-> [sốt suy_thận_mạn_tính]
+297{19, 96, 243, 906} <-> [sốt tức_ngực] <=> tức_ngực
+298{22, 34, 456, 1040} <-> [age2 ho sốt khó_thở]
+299{22, 91, 243, 1040} <-> [age2 male ho sốt]
+300{22, 92, 237, 248} <-> [male đau_họng]
+301{22, 132, 236, 679} <-> [xổ_mũi] <=> xổ_mũi
+302{22, 278, 456, 872} <-> [age2 ho suy_hô_hấp]
+303{22, 332, 832, 833} <-> [suy_thận_mạn_tính khó_thở]
+304{22, 416, 832, 1040} <-> [age2 male khó_thở]
+305{22, 418, 449, 758} <-> [male suy_thận_mạn_tính suy_hô_hấp]
+306{22, 418, 833, 1040} <-> [sốt đái_tháo_đường type 2]
+307{22, 832, 833, 1040} <-> [đái_tháo_đường type 2 khó_thở]
+308{22, 832, 872, 1040} <-> [age2 male đái_tháo_đường type 2]
+309{22, 872, 964, 1040} <-> [age2 ho đái_tháo_đường type 2]
+310{28, 237, 448, 499} <-> [ung thư máu] <=> ung thư máu
+311{39, 278, 456, 872} <-> [ho viêm_phổi]
+312{45, 92, 236, 248} <-> [age1 đau_họng]
+313{61, 86, 87, 1011} <-> [nhiễm_khuẩn huyết] <=> nhiễm_khuẩn huyết
+314{73, 92, 120, 419} <-> [age1 male khó_thở] <=> 73
+315{87, 169, 278, 456} <-> [age2 female viêm_phổi suy_hô_hấp]
+316{91, 120, 872, 932} <-> [male ho mệt_mỏi]
+317{211, 453, 475, 758} <-> [suy_hô_hấp suy_đa_tạng nhiễm_độc] <=> nhiễm_độc
+318{251, 427, 582, 792} <-> [thiếu máu] <=> thiếu máu
+319{416, 453, 456, 758} <-> [age2 suy_đa_tạng]
+320{418, 431, 524, 669} <-> [suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp suy tim] <=> 669
+321{418, 437, 699, 827} <-> [age3 male suy_thận_mạn_tính]
+322{418, 449, 699, 1007} <-> [male tăng_huyết_áp]
+323{418, 456, 827, 1011} <-> [xuất_huyết_tiêu_hóa] <=> xuất_huyết_tiêu_hóa
+324{418, 699, 861, 867} <-> [suy_thận_mạn_tính tăng_huyết_áp đái_tháo_đường type 2]
+325{426, 436, 550, 906} <-> [age3 suy_thận]
+326{429, 431, 696, 737} <-> [age2 suy_thận_mạn_tính suy tim]
+327{429, 524, 696, 737} <-> [female suy_thận_mạn_tính suy tim]
+328{431, 449, 456, 1011} <-> [age2 tăng_huyết_áp suy_hô_hấp]
+329{431, 582, 696, 737} <-> [age2 tăng_huyết_áp suy tim]
+330{437, 479, 758, 1040} <-> [male sốc_nhiễm_khuẩn]
+331{437, 507, 758, 827} <-> [male viêm_phổi suy_thận_mạn_tính]
+332{437, 827, 867, 957} <-> [age3 viêm_phổi suy_thận_mạn_tính]
+333{456, 475, 524, 1011} <-> [female tăng_huyết_áp suy_hô_hấp]
+334{475, 524, 761, 867} <-> [age3 female tăng_huyết_áp]
+335{479, 758, 763, 996} <-> [viêm_phổi sốc_nhiễm_khuẩn suy_đa_tạng]
+336{571, 758, 964, 1040} <-> [age2 suy_kiệt]
+337{653, 758, 964, 1040} <-> [age2 sốc_nhiễm_khuẩn]
+338{696, 737, 861, 1011} <-> [age2 female suy_thận_mạn_tính tăng_huyết_áp]
+339{749, 750, 833, 1007} <-> [age1 đái_tháo_đường type 2]
+340{749, 833, 861, 862} <-> [female ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2] <=> 862
+341{11, 22, 45, 92, 930} <-> [ho sốt đau_họng]
+342{17, 22, 278, 456, 872} <-> [ho suy_hô_hấp]
+343{17, 34, 39, 91, 1011} <-> [job1] <=> job1
+344{17, 34, 122, 456, 833} <-> [female ho sốt khó_thở]
+345{17, 35, 91, 243, 577} <-> [đau_cơ] <=> đau_cơ
+346{17, 92, 120, 122, 833} <-> [age1 ho sốt khó_thở]
+347{17, 122, 448, 833, 1026} <-> [age1 female khó_thở] <=> 1026
+348{22, 91, 243, 872, 1040} <-> [age2 male ho]
+349{22, 92, 120, 459, 1040} <-> [male ho sốt khó_thở]
+350{22, 175, 449, 758, 872} <-> [age2 male suy_hô_hấp]
+351{22, 418, 699, 750, 832} <-> [male suy_thận_mạn_tính đái_tháo_đường type 2]
+352{22, 431, 449, 758, 1011} <-> [age2 suy_thận_mạn_tính suy_hô_hấp]
+353{22, 833, 872, 964, 1040} <-> [ho đái_tháo_đường type 2]
+354{58, 92, 120, 129, 448} <-> [age1 job2 ho]
+355{86, 87, 271, 418, 571} <-> [job3] <=> job3
+356{91, 120, 428, 872, 932} <-> [male mệt_mỏi]
+357{91, 266, 510, 621, 872} <-> [age2 mệt_mỏi]
+358{211, 453, 456, 475, 758} <-> [suy_hô_hấp suy_đa_tạng]
+359{237, 418, 459, 994, 1017} <-> [age3 male sốt]
+360{257, 426, 503, 550, 906} <-> [female suy_thận]
+361{332, 476, 749, 750, 833} <-> [age1 suy_thận_mạn_tính]
+362{418, 524, 699, 761, 867} <-> [age3 suy_thận_mạn_tính tăng_huyết_áp]
+363{418, 699, 861, 867, 1007} <-> [tăng_huyết_áp đái_tháo_đường type 2]
+364{429, 431, 582, 696, 737} <-> [age2 suy tim]
+365{437, 479, 758, 763, 996} <-> [viêm_phổi sốc_nhiễm_khuẩn]
+366{456, 479, 758, 763, 996} <-> [viêm_phổi suy_đa_tạng]
+367{456, 696, 737, 861, 1011} <-> [age2 female tăng_huyết_áp]
+368{749, 833, 861, 862, 867} <-> [female suy_thận_mạn_tính đái_tháo_đường type 2]
+369{11, 34, 278, 456, 595, 930} <-> [age2 female ho sốt] <=> 595
+370{17, 22, 211, 278, 418, 456} <-> [sốt suy_hô_hấp]
+371{17, 34, 122, 448, 456, 833} <-> [female ho khó_thở]
+372{17, 35, 58, 65, 120, 932} <-> [age1 mệt_mỏi]
+373{17, 58, 91, 120, 872, 932} <-> [ho mệt_mỏi]
+374{17, 58, 122, 268, 448, 833} <-> [age1 female ho]
+375{17, 92, 120, 122, 419, 833} <-> [age1 sốt khó_thở]
+376{20, 35, 36, 168, 169, 266} <-> [female job4]
+377{22, 34, 416, 456, 832, 1040} <-> [age2 khó_thở]
+378{22, 92, 120, 419, 459, 1040} <-> [male sốt khó_thở]
+379{22, 832, 861, 872, 964, 1040} <-> [age2 đái_tháo_đường type 2]
+380{24, 418, 475, 478, 524, 957} <-> [age3 suy_hô_hấp]
+381{87, 169, 278, 456, 485, 861} <-> [age2 female viêm_phổi] <=> 485
+382{87, 169, 278, 456, 758, 872} <-> [age2 viêm_phổi suy_hô_hấp]
+383{418, 431, 449, 524, 669, 1011} <-> [suy_thận_mạn_tính tăng_huyết_áp suy_hô_hấp]
+384{418, 475, 524, 699, 761, 867} <-> [age3 tăng_huyết_áp]
+385{429, 483, 696, 737, 861, 1011} <-> [age2 female suy_thận_mạn_tính] <=> 483
+386{431, 449, 696, 737, 861, 1011} <-> [age2 suy_thận_mạn_tính tăng_huyết_áp]
+387{503, 571, 758, 761, 964, 1040} <-> [suy_kiệt] <=> suy_kiệt
+388{749, 750, 832, 833, 861, 862} <-> [ung thư thận di_căn phổi suy_thận_mạn_tính đái_tháo_đường type 2] <=> ung thư thận di_căn phổi
+389{749, 833, 861, 862, 867, 964} <-> [female đái_tháo_đường type 2]
+390{11, 34, 278, 456, 595, 930, 964} <-> [age2 female ho]
+391{17, 34, 122, 448, 456, 833, 1026} <-> [female khó_thở]
+392{17, 35, 58, 65, 266, 510, 621} <-> [female mệt_mỏi]
+393{17, 65, 122, 132, 257, 268, 833} <-> [age1 female sốt]
+394{17, 92, 120, 122, 332, 448, 833} <-> [age1 ho khó_thở]
+395{19, 20, 36, 459, 577, 994, 1017} <-> [age3 ho sốt]
+396{19, 20, 36, 474, 577, 592, 906} <-> [age3 female sốt] <=> 592
+397{19, 481, 489, 524, 761, 867, 957} <-> [age3 female suy_thận_mạn_tính] <=> 481 489
+398{20, 35, 36, 168, 169, 266, 792} <-> [job4] <=> job4
+399{58, 92, 120, 129, 448, 550, 582} <-> [job2] <=> job2
+400{86, 87, 168, 169, 278, 456, 957} <-> [female viêm_phổi suy_hô_hấp]
+401{87, 169, 278, 453, 456, 653, 1011} <-> [age2 female suy_hô_hấp]
+402{251, 437, 479, 499, 827, 867, 957} <-> [age3 viêm_phổi]
+403{437, 479, 507, 758, 792, 827, 872} <-> [male viêm_phổi]
+404{524, 696, 737, 761, 861, 867, 1011} <-> [female suy_thận_mạn_tính tăng_huyết_áp]
+405{11, 22, 45, 92, 237, 350, 474, 930} <-> [sốt đau_họng]
+406{11, 34, 266, 278, 456, 510, 595, 930} <-> [age2 female sốt]
+407{17, 65, 91, 120, 266, 350, 510, 932} <-> [sốt mệt_mỏi]
+408{18, 92, 120, 129, 271, 932, 950, 963} <-> [age1 male ho sốt] <=> 18 950 963
+409{19, 20, 36, 459, 523, 577, 994, 1017} <-> [age3 ho] <=> 523
+410{22, 24, 175, 418, 449, 478, 758, 872} <-> [male suy_hô_hấp]
+411{22, 50, 91, 243, 321, 322, 714, 1040} <-> [age2 male sốt] <=> 50 321 322 714
+412{22, 61, 124, 254, 449, 507, 758, 832} <-> [age2 male suy_thận_mạn_tính] <=> 124 254
+413{22, 418, 699, 750, 832, 872, 1007, 1040} <-> [male đái_tháo_đường type 2]
+414{257, 426, 436, 484, 496, 503, 550, 906} <-> [suy_thận] <=> 484 <=> suy_thận
+415{418, 427, 431, 524, 669, 696, 699, 737} <-> [suy_thận_mạn_tính tăng_huyết_áp suy tim]
+416{418, 431, 449, 456, 475, 524, 669, 1011} <-> [tăng_huyết_áp suy_hô_hấp]
+417{431, 449, 456, 582, 696, 737, 861, 1011} <-> [age2 tăng_huyết_áp]
+418{437, 479, 653, 758, 763, 964, 996, 1040} <-> [sốc_nhiễm_khuẩn] <=> sốc_nhiễm_khuẩn
+419{437, 507, 758, 763, 827, 861, 867, 957} <-> [viêm_phổi suy_thận_mạn_tính]
+420{22, 418, 431, 449, 524, 669, 758, 957, 1011} <-> [suy_thận_mạn_tính suy_hô_hấp]
+421{86, 87, 168, 169, 278, 456, 758, 872, 957} <-> [viêm_phổi suy_hô_hấp]
+422{87, 169, 278, 456, 485, 507, 758, 861, 872} <-> [age2 viêm_phổi]
+423{211, 416, 453, 456, 475, 479, 758, 763, 996} <-> [suy_đa_tạng] <=> suy_đa_tạng
+424{418, 427, 429, 431, 524, 669, 696, 699, 737} <-> [suy_thận_mạn_tính suy tim]
+425{418, 427, 431, 524, 582, 669, 696, 699, 737} <-> [tăng_huyết_áp suy tim]
+426{11, 22, 45, 92, 236, 237, 248, 350, 474, 930} <-> [đau_họng] <=> đau_họng
+427{17, 73, 92, 120, 122, 332, 419, 448, 833, 1026} <-> [age1 khó_thở]
+428{22, 73, 92, 120, 416, 419, 428, 459, 832, 1040} <-> [male khó_thở]
+429{22, 418, 699, 749, 750, 832, 833, 861, 862, 867} <-> [suy_thận_mạn_tính đái_tháo_đường type 2]
+430{414, 456, 475, 524, 696, 737, 761, 861, 867, 1011} <-> [female tăng_huyết_áp]
+431{11, 22, 34, 91, 188, 243, 278, 456, 595, 930, 1040} <-> [age2 ho sốt] <=> 188
+432{17, 22, 34, 92, 120, 122, 265, 456, 459, 833, 1040} <-> [ho sốt khó_thở] <=> 265
+433{18, 92, 120, 129, 130, 235, 271, 419, 932, 950, 963} <-> [age1 male sốt] <=> 130 235
+434{19, 418, 437, 481, 489, 524, 699, 761, 827, 867, 957} <-> [age3 suy_thận_mạn_tính]
+435{86, 87, 168, 169, 278, 456, 485, 499, 861, 867, 957} <-> [female viêm_phổi]
+436{418, 427, 429, 431, 524, 582, 669, 696, 699, 737, 792} <-> [suy tim] <=> suy tim
+437{19, 20, 36, 237, 418, 459, 474, 577, 592, 906, 994, 1017} <-> [age3 sốt]
+438{11, 22, 34, 91, 188, 243, 278, 456, 595, 872, 930, 964, 1040} <-> [age2 ho]
+439{17, 22, 34, 92, 120, 122, 211, 265, 419, 456, 459, 833, 1040} <-> [sốt khó_thở]
+440{17, 22, 34, 92, 120, 122, 265, 332, 448, 456, 459, 833, 1040} <-> [ho khó_thở]
+441{17, 35, 58, 65, 91, 120, 266, 350, 428, 510, 621, 872, 932} <-> [mệt_mỏi] <=> mệt_mỏi
+442{17, 86, 87, 168, 169, 278, 453, 456, 475, 524, 653, 957, 1011} <-> [female suy_hô_hấp]
+443{22, 61, 124, 254, 418, 437, 449, 507, 699, 750, 758, 827, 832} <-> [male suy_thận_mạn_tính]
+444{22, 87, 169, 175, 278, 431, 449, 453, 456, 653, 758, 872, 1011} <-> [age2 suy_hô_hấp]
+445{24, 237, 418, 428, 436, 437, 459, 478, 479, 699, 827, 994, 1017} <-> [age3 male]
+446{418, 427, 431, 449, 524, 669, 696, 699, 737, 761, 861, 867, 1011} <-> [suy_thận_mạn_tính tăng_huyết_áp]
+447{11, 17, 19, 20, 34, 36, 122, 268, 278, 456, 577, 595, 833, 930} <-> [female ho sốt]
+448{22, 418, 699, 749, 750, 832, 833, 861, 862, 867, 872, 964, 1007, 1040} <-> [đái_tháo_đường type 2] <=> đái_tháo_đường type 2
+449{17, 18, 39, 45, 92, 96, 120, 122, 129, 268, 271, 833, 932, 950, 963} <-> [age1 ho sốt]
+450{17, 35, 58, 65, 122, 132, 236, 257, 268, 448, 476, 503, 749, 833, 1026} <-> [age1 female]
+451{18, 22, 91, 92, 120, 129, 243, 271, 459, 932, 950, 963, 994, 1017, 1040} <-> [male ho sốt]
+452{18, 73, 92, 120, 129, 130, 235, 248, 271, 419, 750, 932, 950, 963, 1007} <-> [age1 male]
+453{18, 22, 91, 92, 120, 129, 243, 271, 459, 872, 932, 950, 963, 994, 1017, 1040} <-> [male ho]
+454{22, 61, 124, 254, 429, 431, 449, 450, 483, 507, 696, 737, 758, 832, 861, 1011} <-> [age2 suy_thận_mạn_tính] <=> 450
+455{11, 17, 19, 20, 34, 36, 58, 122, 268, 278, 448, 456, 577, 595, 833, 930, 964} <-> [female ho]
+456{19, 429, 476, 481, 483, 489, 524, 696, 737, 749, 761, 833, 861, 862, 867, 957, 1011} <-> [female suy_thận_mạn_tính]
+457{11, 22, 34, 50, 54, 91, 188, 243, 266, 278, 321, 322, 456, 510, 595, 714, 930, 1040} <-> [age2 sốt] <=> 54
+458{17, 18, 39, 45, 58, 92, 96, 120, 122, 129, 268, 271, 332, 448, 833, 932, 950, 963} <-> [age1 ho]
+459{414, 418, 427, 431, 449, 456, 475, 524, 582, 669, 696, 699, 737, 761, 861, 867, 1007, 1011} <-> [tăng_huyết_áp] <=> tăng_huyết_áp
+460{19, 20, 36, 162, 426, 474, 475, 481, 489, 499, 524, 550, 575, 577, 592, 761, 867, 906, 957} <-> [age3 female]
+461{11, 34, 87, 169, 266, 278, 429, 453, 456, 483, 485, 510, 595, 621, 653, 696, 737, 861, 930, 964, 1011} <-> [age2 female]
+462{17, 18, 39, 45, 65, 92, 96, 120, 122, 129, 130, 132, 235, 257, 268, 271, 419, 833, 932, 950, 963} <-> [age1 sốt]
+463{17, 22, 28, 34, 73, 92, 120, 122, 211, 265, 332, 416, 419, 428, 448, 456, 459, 832, 833, 1026, 1040} <-> [khó_thở] <=> khó_thở
+464{22, 50, 61, 91, 100, 124, 175, 243, 254, 321, 322, 416, 449, 496, 507, 571, 714, 758, 832, 872, 1040} <-> [age2 male]
+465{11, 17, 19, 20, 34, 36, 65, 122, 132, 257, 266, 268, 278, 456, 474, 510, 577, 592, 595, 833, 906, 930} <-> [female sốt]
+466{39, 86, 87, 168, 169, 251, 278, 437, 456, 479, 485, 499, 507, 758, 763, 792, 827, 861, 867, 872, 957, 996} <-> [viêm_phổi] <=> viêm_phổi
+467{17, 22, 24, 86, 87, 168, 169, 175, 211, 278, 418, 431, 449, 453, 456, 475, 478, 524, 653, 669, 758, 872, 957, 1011} <-> [suy_hô_hấp] <=> suy_hô_hấp
+468{18, 22, 50, 91, 92, 120, 129, 130, 235, 237, 243, 271, 321, 322, 418, 419, 459, 714, 932, 950, 963, 994, 1017, 1040} <-> [male sốt]
+469{11, 17, 18, 19, 20, 22, 34, 36, 39, 45, 91, 92, 96, 120, 122, 129, 133, 188, 243, 265, 268, 271, 278, 456, 459, 577, 595, 679, 833, 930, 932, 950, 963, 994, 1017, 1040} <-> [ho sốt] <=> 133
+470{17, 18, 35, 39, 45, 58, 65, 73, 92, 96, 120, 122, 129, 130, 132, 235, 236, 248, 257, 268, 271, 332, 419, 448, 476, 503, 635, 749, 750, 833, 932, 950, 963, 996, 1007, 1026} <-> [age1] <=> age1
+471{19, 20, 24, 28, 36, 162, 237, 251, 418, 426, 428, 436, 437, 459, 474, 475, 478, 479, 481, 489, 499, 523, 524, 550, 575, 577, 592, 699, 761, 827, 867, 906, 957, 994, 1017, 1045} <-> [age3] <=> age3
+472{19, 22, 61, 124, 254, 332, 418, 427, 429, 431, 437, 449, 450, 476, 481, 483, 489, 507, 524, 669, 696, 699, 737, 749, 750, 758, 761, 763, 827, 832, 833, 861, 862, 867, 957, 1011} <-> [suy_thận_mạn_tính] <=> suy_thận_mạn_tính
+473{11, 17, 18, 19, 20, 22, 34, 36, 39, 45, 58, 82, 91, 92, 96, 120, 122, 129, 133, 188, 243, 265, 268, 271, 278, 332, 448, 456, 459, 523, 577, 595, 679, 833, 872, 930, 932, 950, 963, 964, 994, 1017, 1040} <-> [ho] <=> ho
+474{11, 22, 34, 50, 54, 61, 87, 91, 100, 124, 169, 175, 188, 243, 254, 266, 278, 321, 322, 416, 429, 431, 449, 450, 453, 456, 483, 485, 496, 507, 510, 571, 582, 595, 621, 653, 696, 714, 737, 758, 832, 861, 872, 930, 964, 1011, 1040} <-> [age2] <=> age2
+475{18, 22, 24, 50, 61, 73, 91, 92, 100, 120, 124, 129, 130, 175, 235, 237, 243, 248, 254, 271, 321, 322, 416, 418, 419, 428, 436, 437, 449, 459, 478, 479, 496, 507, 571, 699, 714, 750, 758, 792, 827, 832, 872, 932, 950, 963, 994, 1007, 1017, 1040} <-> [male] <=> male
+476{11, 17, 18, 19, 20, 21, 22, 34, 36, 39, 45, 50, 54, 55, 65, 91, 92, 96, 120, 122, 129, 130, 132, 133, 188, 211, 235, 237, 243, 257, 265, 266, 268, 271, 278, 321, 322, 350, 418, 419, 447, 456, 459, 474, 510, 577, 592, 595, 679, 714, 833, 906, 930, 932, 950, 963, 994, 1017, 1040} <-> [sốt] <=> 55 447 <=> sốt
+477{11, 17, 19, 20, 34, 35, 36, 58, 65, 86, 87, 122, 132, 162, 168, 169, 236, 257, 266, 268, 278, 414, 426, 429, 448, 453, 456, 474, 475, 476, 481, 483, 485, 489, 499, 503, 510, 524, 550, 575, 577, 592, 595, 621, 651, 653, 696, 737, 749, 761, 833, 861, 862, 867, 906, 930, 957, 964, 1011, 1026} <-> [female] <=> female
